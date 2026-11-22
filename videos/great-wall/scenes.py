@@ -695,7 +695,7 @@ def sh_hook(ctx, t, D, cue):
     t_none = cue("And there was no enemy")
     t_least = cue("At least")
     # camera: start tight on the hero + flaring fire, pull out to reveal the burning chain, then snap back
-    hx = TOWERS[4] + 75
+    hx = TOWERS[4] + 34
     hy = wall_y(TOWERS[4]) - 204
     if t < t_me:
         k = ease(prog(t, 0.6, 4.2))
