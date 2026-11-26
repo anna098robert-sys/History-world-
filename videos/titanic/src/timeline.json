@@ -1,0 +1,947 @@
+{
+ "fps": 30,
+ "total": 369.8886,
+ "frames": 11097,
+ "shots": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "dur": 8.1866,
+   "vo": "vo/hook.mp3",
+   "voDur": 7.6866,
+   "sents": [
+    [
+     0.0,
+     2.4211,
+     "I bought a time machine for five dollars."
+    ],
+    [
+     2.7611,
+     5.723,
+     "Ten seconds later, I was standing on the Titanic."
+    ],
+    [
+     6.063,
+     7.6866,
+     "Worst purchase of my life!"
+    ]
+   ]
+  },
+  {
+   "id": "title",
+   "start": 8.1866,
+   "dur": 4.5,
+   "vo": null,
+   "voDur": 0,
+   "sents": []
+  },
+  {
+   "id": "market",
+   "start": 12.6866,
+   "dur": 16.2873,
+   "vo": "vo/market.mp3",
+   "voDur": 15.8873,
+   "sents": [
+    [
+     0.0,
+     2.2765,
+     "It was a sunny Sunday at the flea market."
+    ],
+    [
+     2.6165,
+     6.207,
+     "Old lamps, broken toys, a lot of very suspicious socks."
+    ],
+    [
+     6.547,
+     7.7195,
+     "And then I saw it."
+    ],
+    [
+     8.0595,
+     12.9487,
+     "A dusty brass machine with dials, buttons, and a little sign that said: Time machine."
+    ],
+    [
+     13.2887,
+     14.4256,
+     "Five dollars."
+    ],
+    [
+     14.7656,
+     15.8873,
+     "No refunds."
+    ]
+   ]
+  },
+  {
+   "id": "buy",
+   "start": 28.9739,
+   "dur": 8.4789,
+   "vo": "vo/buy.mp3",
+   "voDur": 8.0789,
+   "sents": [
+    [
+     0.0,
+     3.9148,
+     "The old man selling it winked at me and said, Don't touch the red lever."
+    ],
+    [
+     4.2548,
+     8.0789,
+     "So, obviously, I paid him, carried it home, and touched the red lever."
+    ]
+   ]
+  },
+  {
+   "id": "travel",
+   "start": 37.4528,
+   "dur": 10.4717,
+   "vo": "vo/travel.mp3",
+   "voDur": 9.3717,
+   "sents": [
+    [
+     0.0,
+     1.3044,
+     "The machine rattled."
+    ],
+    [
+     1.6444,
+     2.8703,
+     "The dials spun."
+    ],
+    [
+     3.2103,
+     5.3896,
+     "My room turned into a tunnel of light."
+    ],
+    [
+     5.7296,
+     9.3717,
+     "And a little screen blinked: April the fourteenth, nineteen twelve."
+    ]
+   ]
+  },
+  {
+   "id": "aboard",
+   "start": 47.9245,
+   "dur": 10.309,
+   "vo": "vo/aboard.mp3",
+   "voDur": 9.909,
+   "sents": [
+    [
+     0.0,
+     3.0381,
+     "I landed on a wooden deck, under a bright blue sky."
+    ],
+    [
+     3.3781,
+     4.6406,
+     "Huge chimneys."
+    ],
+    [
+     4.9806,
+     6.9256,
+     "Fancy people in long coats."
+    ],
+    [
+     7.2656,
+     9.909,
+     "A ship so big it looked like a floating city."
+    ]
+   ]
+  },
+  {
+   "id": "luxury",
+   "start": 58.2334,
+   "dur": 15.3334,
+   "vo": "vo/luxury.mp3",
+   "voDur": 14.9334,
+   "sents": [
+    [
+     0.0,
+     1.6413,
+     "And wow, was it fancy."
+    ],
+    [
+     1.9813,
+     4.1671,
+     "A grand staircase with a glass dome."
+    ],
+    [
+     4.5071,
+     5.938,
+     "Crystal chandeliers."
+    ],
+    [
+     6.278,
+     10.66,
+     "A gym, a swimming pool, and a restaurant where the menu had eleven courses."
+    ],
+    [
+     11.0,
+     14.9334,
+     "I ate four bread rolls before anyone noticed I wasn't a passenger."
+    ]
+   ]
+  },
+  {
+   "id": "realize",
+   "start": 73.5668,
+   "dur": 12.478,
+   "vo": "vo/realize.mp3",
+   "voDur": 11.878,
+   "sents": [
+    [
+     0.0,
+     1.575,
+     "Then I picked up a menu."
+    ],
+    [
+     1.915,
+     6.1179,
+     "On the top, in fancy gold letters, it said: R M S Titanic."
+    ],
+    [
+     6.4579,
+     7.6439,
+     "I read it once."
+    ],
+    [
+     7.9839,
+     9.2647,
+     "I read it twice."
+    ],
+    [
+     9.6047,
+     11.878,
+     "And my brain made a very small noise."
+    ]
+   ]
+  },
+  {
+   "id": "fact1",
+   "start": 86.0448,
+   "dur": 16.5702,
+   "vo": "vo/fact1.mp3",
+   "voDur": 15.9702,
+   "sents": [
+    [
+     0.0,
+     1.1948,
+     "Here's what I knew."
+    ],
+    [
+     1.5348,
+     6.6048,
+     "The Titanic left England on April the tenth, nineteen twelve, heading for New York."
+    ],
+    [
+     6.9448,
+     9.5711,
+     "Newspapers called it practically unsinkable."
+    ],
+    [
+     9.9111,
+     14.4272,
+     "And on the night of April the fourteenth, it hit an iceberg in the North Atlantic."
+    ],
+    [
+     14.7672,
+     15.9702,
+     "That was tonight."
+    ]
+   ]
+  },
+  {
+   "id": "warn1",
+   "start": 102.615,
+   "dur": 10.2553,
+   "vo": "vo/warn1.mp3",
+   "voDur": 9.8553,
+   "sents": [
+    [
+     0.0,
+     2.0398,
+     "So I did what any hero would do."
+    ],
+    [
+     2.3798,
+     4.996,
+     "I jumped on a table and shouted: Iceberg!"
+    ],
+    [
+     5.336,
+     8.6593,
+     "A waiter nodded politely, and brought me a glass of water."
+    ],
+    [
+     8.9993,
+     9.8553,
+     "With ice."
+    ]
+   ]
+  },
+  {
+   "id": "warn2",
+   "start": 112.8703,
+   "dur": 10.8612,
+   "vo": "vo/warn2.mp3",
+   "voDur": 10.4612,
+   "sents": [
+    [
+     0.0,
+     1.1663,
+     "I tried again."
+    ],
+    [
+     1.5063,
+     4.2299,
+     "Ladies and gentlemen, this ship is going to sink!"
+    ],
+    [
+     4.5699,
+     7.977,
+     "A lady in a giant hat smiled and said: Oh, yes, dear."
+    ],
+    [
+     8.317,
+     10.4612,
+     "The sinks in first class are lovely."
+    ]
+   ]
+  },
+  {
+   "id": "warn3",
+   "start": 123.7315,
+   "dur": 10.6595,
+   "vo": "vo/warn3.mp3",
+   "voDur": 10.2595,
+   "sents": [
+    [
+     0.0,
+     1.8978,
+     "I grabbed a man in a top hat."
+    ],
+    [
+     2.2378,
+     3.723,
+     "There aren't enough lifeboats!"
+    ],
+    [
+     4.063,
+     4.8962,
+     "He laughed."
+    ],
+    [
+     5.2362,
+     7.4155,
+     "Young man, this ship is unsinkable."
+    ],
+    [
+     7.7555,
+     10.2595,
+     "The lifeboats are basically decorations."
+    ]
+   ]
+  },
+  {
+   "id": "fact2",
+   "start": 134.391,
+   "dur": 12.9005,
+   "vo": "vo/fact2.mp3",
+   "voDur": 12.4005,
+   "sents": [
+    [
+     0.0,
+     1.563,
+     "And here's the scary part."
+    ],
+    [
+     1.903,
+     4.1169,
+     "He was half right about the decorations."
+    ],
+    [
+     4.4569,
+     9.1617,
+     "The Titanic had twenty lifeboats, with room for about eleven hundred people."
+    ],
+    [
+     9.5017,
+     12.4005,
+     "But there were around twenty two hundred people on board."
+    ]
+   ]
+  },
+  {
+   "id": "napkin",
+   "start": 147.2915,
+   "dur": 6.7404,
+   "vo": "vo/napkin.mp3",
+   "voDur": 6.2404,
+   "sents": [
+    [
+     0.0,
+     2.8266,
+     "So I drew the iceberg on a napkin to explain."
+    ],
+    [
+     3.1666,
+     6.2404,
+     "Everyone clapped, and someone ordered two of them for dessert."
+    ]
+   ]
+  },
+  {
+   "id": "captain",
+   "start": 154.0318,
+   "dur": 9.4744,
+   "vo": "vo/captain.mp3",
+   "voDur": 9.0744,
+   "sents": [
+    [
+     0.0,
+     0.874,
+     "Okay."
+    ],
+    [
+     1.214,
+     2.1806,
+     "New plan."
+    ],
+    [
+     2.5206,
+     3.82,
+     "Talk to the captain."
+    ],
+    [
+     4.16,
+     9.0744,
+     "I found Captain Edward Smith on the bridge, with a white beard and a very serious hat."
+    ]
+   ]
+  },
+  {
+   "id": "conv1",
+   "start": 163.5062,
+   "dur": 12.74,
+   "vo": "vo/conv1.mp3",
+   "voDur": 12.34,
+   "sents": [
+    [
+     0.0,
+     2.4111,
+     "Captain, I said, you're going to hit an iceberg!"
+    ],
+    [
+     2.7511,
+     4.3733,
+     "He raised one eyebrow."
+    ],
+    [
+     4.7133,
+     5.3908,
+     "When?"
+    ],
+    [
+     5.7308,
+     6.7508,
+     "Umm, tonight."
+    ],
+    [
+     7.0908,
+     8.2617,
+     "Around midnight."
+    ],
+    [
+     8.6017,
+     9.2342,
+     "Ish."
+    ],
+    [
+     9.5742,
+     10.2248,
+     "Where?"
+    ],
+    [
+     10.5648,
+     11.3702,
+     "Somewhere..."
+    ],
+    [
+     11.7102,
+     12.34,
+     "wet."
+    ]
+   ]
+  },
+  {
+   "id": "conv2",
+   "start": 176.2463,
+   "dur": 13.984,
+   "vo": "vo/conv2.mp3",
+   "voDur": 13.584,
+   "sents": [
+    [
+     0.0,
+     1.4047,
+     "And how do you know this?"
+    ],
+    [
+     1.7447,
+     2.7412,
+     "I panicked."
+    ],
+    [
+     3.0812,
+     4.3935,
+     "I saw it in a movie!"
+    ],
+    [
+     4.7335,
+     5.7073,
+     "He frowned."
+    ],
+    [
+     6.0473,
+     7.2572,
+     "What is a movie?"
+    ],
+    [
+     7.5972,
+     13.584,
+     "That was when I realized movies with sound didn't exist yet, and I was losing this conversation."
+    ]
+   ]
+  },
+  {
+   "id": "binoculars",
+   "start": 190.2302,
+   "dur": 12.8953,
+   "vo": "vo/binoculars.mp3",
+   "voDur": 12.3953,
+   "sents": [
+    [
+     0.0,
+     2.2426,
+     "But I remembered one real detail."
+    ],
+    [
+     2.5826,
+     5.6654,
+     "The lookouts in the crow's nest didn't have binoculars."
+    ],
+    [
+     6.0054,
+     9.1578,
+     "The key to their locker had been left behind in England."
+    ],
+    [
+     9.4978,
+     12.3952,
+     "So I ran off to find some binoculars myself."
+    ]
+   ]
+  },
+  {
+   "id": "lost",
+   "start": 203.1255,
+   "dur": 9.5442,
+   "vo": "vo/lost.mp3",
+   "voDur": 9.0442,
+   "sents": [
+    [
+     0.0,
+     1.5171,
+     "That ship was enormous."
+    ],
+    [
+     1.8571,
+     6.6378,
+     "I found a squash court, a mail room, a very angry cook, and three thousand stairs."
+    ],
+    [
+     6.9778,
+     9.0442,
+     "I did not find any binoculars."
+    ]
+   ]
+  },
+  {
+   "id": "night",
+   "start": 212.6697,
+   "dur": 14.2237,
+   "vo": "vo/night.mp3",
+   "voDur": 13.6237,
+   "sents": [
+    [
+     0.0,
+     2.479,
+     "By the time I climbed back up, it was night."
+    ],
+    [
+     2.819,
+     4.205,
+     "The air was freezing."
+    ],
+    [
+     4.545,
+     6.7914,
+     "The sea was flat and black, like glass."
+    ],
+    [
+     7.1314,
+     8.038,
+     "No moon."
+    ],
+    [
+     8.378,
+     9.385,
+     "No waves."
+    ],
+    [
+     9.725,
+     10.8283,
+     "Just stars."
+    ],
+    [
+     11.1683,
+     12.098,
+     "Beautiful."
+    ],
+    [
+     12.438,
+     13.6237,
+     "And terrifying."
+    ]
+   ]
+  },
+  {
+   "id": "crowsnest",
+   "start": 226.8935,
+   "dur": 13.4392,
+   "vo": "vo/crowsnest.mp3",
+   "voDur": 13.0392,
+   "sents": [
+    [
+     0.0,
+     5.837,
+     "I climbed to the crow's nest with a pair of opera glasses I borrowed from a very confused lady."
+    ],
+    [
+     6.177,
+     8.2422,
+     "The lookout squinted into the dark."
+    ],
+    [
+     8.5822,
+     9.9713,
+     "Then he grabbed the bell."
+    ],
+    [
+     10.3113,
+     11.3819,
+     "Three rings."
+    ],
+    [
+     11.7219,
+     13.0392,
+     "Iceberg, right ahead!"
+    ]
+   ]
+  },
+  {
+   "id": "impact",
+   "start": 240.3326,
+   "dur": 13.8991,
+   "vo": "vo/impact.mp3",
+   "voDur": 11.7991,
+   "sents": [
+    [
+     0.0,
+     3.7192,
+     "At eleven forty that night, the Titanic scraped along the iceberg."
+    ],
+    [
+     4.0592,
+     5.6787,
+     "It didn't feel like a crash."
+    ],
+    [
+     6.0187,
+     7.9253,
+     "It felt like a long, slow shiver."
+    ],
+    [
+     8.2653,
+     11.7991,
+     "Upstairs, some passengers played with chunks of ice on the deck."
+    ]
+   ]
+  },
+  {
+   "id": "harder",
+   "start": 254.2317,
+   "dur": 10.5976,
+   "vo": "vo/harder.mp3",
+   "voDur": 9.7976,
+   "sents": [
+    [
+     0.0,
+     1.6257,
+     "And that's when I understood."
+    ],
+    [
+     1.9657,
+     5.2794,
+     "Changing history is not like changing a TV channel."
+    ],
+    [
+     5.6194,
+     7.861,
+     "I knew the ending, but I couldn't stop it."
+    ],
+    [
+     8.201,
+     9.7976,
+     "All I could do was help."
+    ]
+   ]
+  },
+  {
+   "id": "help1",
+   "start": 264.8294,
+   "dur": 10.5967,
+   "vo": "vo/help1.mp3",
+   "voDur": 10.1967,
+   "sents": [
+    [
+     0.0,
+     3.3133,
+     "So I stopped trying to be a hero, and started being useful."
+    ],
+    [
+     3.6532,
+     7.2866,
+     "I knocked on doors and told people to put on their life jackets."
+    ],
+    [
+     7.6266,
+     10.1967,
+     "I showed families the way up to the boat deck."
+    ]
+   ]
+  },
+  {
+   "id": "help2",
+   "start": 275.426,
+   "dur": 12.07,
+   "vo": "vo/help2.mp3",
+   "voDur": 11.67,
+   "sents": [
+    [
+     0.0,
+     5.5056,
+     "The first lifeboats left half empty, because many people still didn't believe the ship could sink."
+    ],
+    [
+     5.8456,
+     8.2668,
+     "So I kept saying the only thing that mattered."
+    ],
+    [
+     8.6068,
+     9.922,
+     "Every seat counts."
+    ],
+    [
+     10.262,
+     11.67,
+     "Please, get in the boat."
+    ]
+   ]
+  },
+  {
+   "id": "help3",
+   "start": 287.496,
+   "dur": 11.2086,
+   "vo": "vo/help3.mp3",
+   "voDur": 10.6086,
+   "sents": [
+    [
+     0.0,
+     2.6742,
+     "I helped a little girl find her mother in the crowd."
+    ],
+    [
+     3.0142,
+     6.3416,
+     "I gave my coat to an old man who was shaking from the cold."
+    ],
+    [
+     6.6816,
+     10.6086,
+     "And all around us, the ship's band kept playing, to keep everyone calm."
+    ]
+   ]
+  },
+  {
+   "id": "respect",
+   "start": 298.7047,
+   "dur": 24.9408,
+   "vo": "vo/respect.mp3",
+   "voDur": 22.1408,
+   "sents": [
+    [
+     0.0,
+     3.9147,
+     "The Titanic sank at two twenty in the morning, on April the fifteenth."
+    ],
+    [
+     4.2547,
+     6.9763,
+     "More than fifteen hundred people lost their lives."
+    ],
+    [
+     7.3163,
+     11.8046,
+     "The ship Carpathia rescued about seven hundred survivors from the lifeboats."
+    ],
+    [
+     12.1446,
+     16.9738,
+     "It's one of the saddest nights in history, and it changed the rules of the sea forever."
+    ],
+    [
+     17.3138,
+     22.1408,
+     "After the Titanic, every ship had to carry enough lifeboats for everyone on board."
+    ]
+   ]
+  },
+  {
+   "id": "return",
+   "start": 323.6455,
+   "dur": 12.3739,
+   "vo": "vo/return.mp3",
+   "voDur": 11.8739,
+   "sents": [
+    [
+     0.0,
+     5.1653,
+     "Sitting in a lifeboat, wrapped in a blanket, I felt the machine in my pocket start to buzz."
+    ],
+    [
+     5.5053,
+     8.4199,
+     "The dials spun, the light came back, and I was home."
+    ],
+    [
+     8.7599,
+     10.506,
+     "Sitting on my bedroom floor."
+    ],
+    [
+     10.846,
+     11.8739,
+     "Soaking wet."
+    ]
+   ]
+  },
+  {
+   "id": "promise",
+   "start": 336.0194,
+   "dur": 9.5087,
+   "vo": "vo/promise.mp3",
+   "voDur": 9.1087,
+   "sents": [
+    [
+     0.0,
+     2.3171,
+     "I looked at the machine, and made a promise."
+    ],
+    [
+     2.6571,
+     4.1324,
+     "No more time travel."
+    ],
+    [
+     4.4724,
+     5.5407,
+     "Never again."
+    ],
+    [
+     5.8807,
+     9.1087,
+     "I'm putting you in the closet, and I'm never touching you again."
+    ]
+   ]
+  },
+  {
+   "id": "click",
+   "start": 345.5281,
+   "dur": 10.1188,
+   "vo": "vo/click.mp3",
+   "voDur": 9.3187,
+   "sents": [
+    [
+     0.0,
+     4.5986,
+     "And then I tripped over my backpack, fell on the machine, and heard a very small click."
+    ],
+    [
+     4.9386,
+     6.2287,
+     "The screen lit up."
+    ],
+    [
+     6.5687,
+     7.5243,
+     "Pompeii."
+    ],
+    [
+     7.8643,
+     9.3187,
+     "A D seventy nine."
+    ]
+   ]
+  },
+  {
+   "id": "scream",
+   "start": 355.6468,
+   "dur": 3.2643,
+   "vo": "vo/scream.mp3",
+   "voDur": 1.2643,
+   "sents": [
+    [
+     0.0,
+     1.2643,
+     "ARE YOU KIDDING ME?!"
+    ]
+   ]
+  },
+  {
+   "id": "outro",
+   "start": 358.9111,
+   "dur": 3.9775,
+   "vo": "vo/outro.mp3",
+   "voDur": 2.9775,
+   "sents": [
+    [
+     0.0,
+     2.9775,
+     "Subscribe to History World to see what happens next!"
+    ]
+   ]
+  },
+  {
+   "id": "endcard",
+   "start": 362.8886,
+   "dur": 7.0,
+   "vo": null,
+   "voDur": 0,
+   "sents": []
+  }
+ ]
+}

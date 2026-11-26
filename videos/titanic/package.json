@@ -1,0 +1,21 @@
+{
+  "name": "history-world-titanic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "History World: I Accidentally Boarded the Titanic! (Remotion project)",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts Titanic out/raw.mp4 && npm run master",
+    "master": "remotion ffmpeg -y -i out/raw.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -movflags +faststart out/i-accidentally-boarded-the-titanic.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.542",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.542"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

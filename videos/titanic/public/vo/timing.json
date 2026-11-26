@@ -1,0 +1,895 @@
+[
+ {
+  "id": "hook",
+  "dur": 7.686625,
+  "pause": 0.5,
+  "text": "I bought a time machine for five dollars. Ten seconds later, I was standing on the Titanic. Worst purchase of my life!",
+  "sents": [
+   [
+    0.0,
+    2.421125,
+    "I bought a time machine for five dollars."
+   ],
+   [
+    2.761125,
+    5.723,
+    "Ten seconds later, I was standing on the Titanic."
+   ],
+   [
+    6.063,
+    7.686624999999999,
+    "Worst purchase of my life!"
+   ]
+  ]
+ },
+ {
+  "id": "market",
+  "dur": 15.887291666666666,
+  "pause": 0.4,
+  "text": "It was a sunny Sunday at the flea market. Old lamps, broken toys, a lot of very suspicious socks. And then I saw it. A dusty brass machine with dials, buttons, and a little sign that said: Time machine. Five dollars. No refunds.",
+  "sents": [
+   [
+    0.0,
+    2.2765,
+    "It was a sunny Sunday at the flea market."
+   ],
+   [
+    2.6165,
+    6.207041666666667,
+    "Old lamps, broken toys, a lot of very suspicious socks."
+   ],
+   [
+    6.547041666666667,
+    7.719541666666667,
+    "And then I saw it."
+   ],
+   [
+    8.059541666666668,
+    12.948666666666668,
+    "A dusty brass machine with dials, buttons, and a little sign that said: Time machine."
+   ],
+   [
+    13.288666666666668,
+    14.425625,
+    "Five dollars."
+   ],
+   [
+    14.765625000000002,
+    15.887291666666668,
+    "No refunds."
+   ]
+  ]
+ },
+ {
+  "id": "buy",
+  "dur": 8.078875,
+  "pause": 0.4,
+  "text": "The old man selling it winked at me and said, Don't touch the red lever. So, obviously, I paid him, carried it home, and touched the red lever.",
+  "sents": [
+   [
+    0.0,
+    3.91475,
+    "The old man selling it winked at me and said, Don't touch the red lever."
+   ],
+   [
+    4.2547500000000005,
+    8.078875,
+    "So, obviously, I paid him, carried it home, and touched the red lever."
+   ]
+  ]
+ },
+ {
+  "id": "travel",
+  "dur": 9.371666666666666,
+  "pause": 0.5,
+  "text": "The machine rattled. The dials spun. My room turned into a tunnel of light. And a little screen blinked: April the fourteenth, nineteen twelve.",
+  "sents": [
+   [
+    0.0,
+    1.304375,
+    "The machine rattled."
+   ],
+   [
+    1.6443750000000001,
+    2.8702500000000004,
+    "The dials spun."
+   ],
+   [
+    3.2102500000000003,
+    5.3896250000000006,
+    "My room turned into a tunnel of light."
+   ],
+   [
+    5.729625,
+    9.371666666666666,
+    "And a little screen blinked: April the fourteenth, nineteen twelve."
+   ]
+  ]
+ },
+ {
+  "id": "aboard",
+  "dur": 9.908958333333333,
+  "pause": 0.4,
+  "text": "I landed on a wooden deck, under a bright blue sky. Huge chimneys. Fancy people in long coats. A ship so big it looked like a floating city.",
+  "sents": [
+   [
+    0.0,
+    3.038125,
+    "I landed on a wooden deck, under a bright blue sky."
+   ],
+   [
+    3.378125,
+    4.640625,
+    "Huge chimneys."
+   ],
+   [
+    4.980625,
+    6.925583333333333,
+    "Fancy people in long coats."
+   ],
+   [
+    7.265583333333334,
+    9.908958333333334,
+    "A ship so big it looked like a floating city."
+   ]
+  ]
+ },
+ {
+  "id": "luxury",
+  "dur": 14.933375,
+  "pause": 0.4,
+  "text": "And wow, was it fancy. A grand staircase with a glass dome. Crystal chandeliers. A gym, a swimming pool, and a restaurant where the menu had eleven courses. I ate four bread rolls before anyone noticed I wasn't a passenger.",
+  "sents": [
+   [
+    0.0,
+    1.6413333333333333,
+    "And wow, was it fancy."
+   ],
+   [
+    1.9813333333333334,
+    4.167125,
+    "A grand staircase with a glass dome."
+   ],
+   [
+    4.507125,
+    5.9379583333333334,
+    "Crystal chandeliers."
+   ],
+   [
+    6.277958333333334,
+    10.66,
+    "A gym, a swimming pool, and a restaurant where the menu had eleven courses."
+   ],
+   [
+    11.0,
+    14.933375,
+    "I ate four bread rolls before anyone noticed I wasn't a passenger."
+   ]
+  ]
+ },
+ {
+  "id": "realize",
+  "dur": 11.878041666666666,
+  "pause": 0.6,
+  "text": "Then I picked up a menu. On the top, in fancy gold letters, it said: R M S Titanic. I read it once. I read it twice. And my brain made a very small noise.",
+  "sents": [
+   [
+    0.0,
+    1.5749583333333332,
+    "Then I picked up a menu."
+   ],
+   [
+    1.9149583333333333,
+    6.117875,
+    "On the top, in fancy gold letters, it said: R M S Titanic."
+   ],
+   [
+    6.457875,
+    7.6438749999999995,
+    "I read it once."
+   ],
+   [
+    7.983874999999999,
+    9.264666666666667,
+    "I read it twice."
+   ],
+   [
+    9.604666666666667,
+    11.878041666666666,
+    "And my brain made a very small noise."
+   ]
+  ]
+ },
+ {
+  "id": "fact1",
+  "dur": 15.970166666666668,
+  "pause": 0.6,
+  "text": "Here's what I knew. The Titanic left England on April the tenth, nineteen twelve, heading for New York. Newspapers called it practically unsinkable. And on the night of April the fourteenth, it hit an iceberg in the North Atlantic. That was tonight.",
+  "sents": [
+   [
+    0.0,
+    1.1948333333333334,
+    "Here's what I knew."
+   ],
+   [
+    1.5348333333333335,
+    6.604791666666666,
+    "The Titanic left England on April the tenth, nineteen twelve, heading for New York."
+   ],
+   [
+    6.944791666666666,
+    9.571124999999999,
+    "Newspapers called it practically unsinkable."
+   ],
+   [
+    9.911124999999998,
+    14.427208333333333,
+    "And on the night of April the fourteenth, it hit an iceberg in the North Atlantic."
+   ],
+   [
+    14.767208333333333,
+    15.970166666666666,
+    "That was tonight."
+   ]
+  ]
+ },
+ {
+  "id": "warn1",
+  "dur": 9.855291666666666,
+  "pause": 0.4,
+  "text": "So I did what any hero would do. I jumped on a table and shouted: Iceberg! A waiter nodded politely, and brought me a glass of water. With ice.",
+  "sents": [
+   [
+    0.0,
+    2.03975,
+    "So I did what any hero would do."
+   ],
+   [
+    2.37975,
+    4.996041666666667,
+    "I jumped on a table and shouted: Iceberg!"
+   ],
+   [
+    5.336041666666667,
+    8.659291666666666,
+    "A waiter nodded politely, and brought me a glass of water."
+   ],
+   [
+    8.999291666666666,
+    9.855291666666666,
+    "With ice."
+   ]
+  ]
+ },
+ {
+  "id": "warn2",
+  "dur": 10.461208333333333,
+  "pause": 0.4,
+  "text": "I tried again. Ladies and gentlemen, this ship is going to sink! A lady in a giant hat smiled and said: Oh, yes, dear. The sinks in first class are lovely.",
+  "sents": [
+   [
+    0.0,
+    1.16625,
+    "I tried again."
+   ],
+   [
+    1.50625,
+    4.229875,
+    "Ladies and gentlemen, this ship is going to sink!"
+   ],
+   [
+    4.569875,
+    7.977041666666667,
+    "A lady in a giant hat smiled and said: Oh, yes, dear."
+   ],
+   [
+    8.317041666666666,
+    10.461208333333333,
+    "The sinks in first class are lovely."
+   ]
+  ]
+ },
+ {
+  "id": "warn3",
+  "dur": 10.2595,
+  "pause": 0.4,
+  "text": "I grabbed a man in a top hat. There aren't enough lifeboats! He laughed. Young man, this ship is unsinkable. The lifeboats are basically decorations.",
+  "sents": [
+   [
+    0.0,
+    1.8978333333333333,
+    "I grabbed a man in a top hat."
+   ],
+   [
+    2.237833333333333,
+    3.722958333333333,
+    "There aren't enough lifeboats!"
+   ],
+   [
+    4.0629583333333334,
+    4.896166666666667,
+    "He laughed."
+   ],
+   [
+    5.236166666666667,
+    7.415541666666666,
+    "Young man, this ship is unsinkable."
+   ],
+   [
+    7.755541666666666,
+    10.2595,
+    "The lifeboats are basically decorations."
+   ]
+  ]
+ },
+ {
+  "id": "fact2",
+  "dur": 12.400458333333333,
+  "pause": 0.5,
+  "text": "And here's the scary part. He was half right about the decorations. The Titanic had twenty lifeboats, with room for about eleven hundred people. But there were around twenty two hundred people on board.",
+  "sents": [
+   [
+    0.0,
+    1.563,
+    "And here's the scary part."
+   ],
+   [
+    1.903,
+    4.116916666666667,
+    "He was half right about the decorations."
+   ],
+   [
+    4.456916666666666,
+    9.161666666666665,
+    "The Titanic had twenty lifeboats, with room for about eleven hundred people."
+   ],
+   [
+    9.501666666666665,
+    12.400458333333333,
+    "But there were around twenty two hundred people on board."
+   ]
+  ]
+ },
+ {
+  "id": "napkin",
+  "dur": 6.240375,
+  "pause": 0.5,
+  "text": "So I drew the iceberg on a napkin to explain. Everyone clapped, and someone ordered two of them for dessert.",
+  "sents": [
+   [
+    0.0,
+    2.8265833333333332,
+    "So I drew the iceberg on a napkin to explain."
+   ],
+   [
+    3.166583333333333,
+    6.240375,
+    "Everyone clapped, and someone ordered two of them for dessert."
+   ]
+  ]
+ },
+ {
+  "id": "captain",
+  "dur": 9.074416666666666,
+  "pause": 0.4,
+  "text": "Okay. New plan. Talk to the captain. I found Captain Edward Smith on the bridge, with a white beard and a very serious hat.",
+  "sents": [
+   [
+    0.0,
+    0.8739583333333333,
+    "Okay."
+   ],
+   [
+    1.2139583333333333,
+    2.180625,
+    "New plan."
+   ],
+   [
+    2.520625,
+    3.819958333333333,
+    "Talk to the captain."
+   ],
+   [
+    4.159958333333333,
+    9.074416666666666,
+    "I found Captain Edward Smith on the bridge, with a white beard and a very serious hat."
+   ]
+  ]
+ },
+ {
+  "id": "conv1",
+  "dur": 12.340041666666666,
+  "pause": 0.4,
+  "text": "Captain, I said, you're going to hit an iceberg! He raised one eyebrow. When? Umm, tonight. Around midnight. Ish. Where? Somewhere... wet.",
+  "sents": [
+   [
+    0.0,
+    2.411125,
+    "Captain, I said, you're going to hit an iceberg!"
+   ],
+   [
+    2.751125,
+    4.3732500000000005,
+    "He raised one eyebrow."
+   ],
+   [
+    4.71325,
+    5.390833333333334,
+    "When?"
+   ],
+   [
+    5.730833333333334,
+    6.75075,
+    "Umm, tonight."
+   ],
+   [
+    7.090750000000001,
+    8.261666666666667,
+    "Around midnight."
+   ],
+   [
+    8.601666666666667,
+    9.23425,
+    "Ish."
+   ],
+   [
+    9.57425,
+    10.224833333333333,
+    "Where?"
+   ],
+   [
+    10.564833333333333,
+    11.370166666666666,
+    "Somewhere..."
+   ],
+   [
+    11.710166666666666,
+    12.340041666666666,
+    "wet."
+   ]
+  ]
+ },
+ {
+  "id": "conv2",
+  "dur": 13.583958333333333,
+  "pause": 0.4,
+  "text": "And how do you know this? I panicked. I saw it in a movie! He frowned. What is a movie? That was when I realized movies with sound didn't exist yet, and I was losing this conversation.",
+  "sents": [
+   [
+    0.0,
+    1.4046666666666667,
+    "And how do you know this?"
+   ],
+   [
+    1.7446666666666668,
+    2.741166666666667,
+    "I panicked."
+   ],
+   [
+    3.081166666666667,
+    4.393541666666667,
+    "I saw it in a movie!"
+   ],
+   [
+    4.733541666666667,
+    5.7073333333333345,
+    "He frowned."
+   ],
+   [
+    6.047333333333334,
+    7.257166666666667,
+    "What is a movie?"
+   ],
+   [
+    7.597166666666668,
+    13.583958333333335,
+    "That was when I realized movies with sound didn't exist yet, and I was losing this conversation."
+   ]
+  ]
+ },
+ {
+  "id": "binoculars",
+  "dur": 12.39525,
+  "pause": 0.5,
+  "text": "But I remembered one real detail. The lookouts in the crow's nest didn't have binoculars. The key to their locker had been left behind in England. So I ran off to find some binoculars myself.",
+  "sents": [
+   [
+    0.0,
+    2.242583333333333,
+    "But I remembered one real detail."
+   ],
+   [
+    2.582583333333333,
+    5.665374999999999,
+    "The lookouts in the crow's nest didn't have binoculars."
+   ],
+   [
+    6.005374999999999,
+    9.157833333333333,
+    "The key to their locker had been left behind in England."
+   ],
+   [
+    9.497833333333332,
+    12.395249999999999,
+    "So I ran off to find some binoculars myself."
+   ]
+  ]
+ },
+ {
+  "id": "lost",
+  "dur": 9.04425,
+  "pause": 0.5,
+  "text": "That ship was enormous. I found a squash court, a mail room, a very angry cook, and three thousand stairs. I did not find any binoculars.",
+  "sents": [
+   [
+    0.0,
+    1.517125,
+    "That ship was enormous."
+   ],
+   [
+    1.8571250000000001,
+    6.637833333333333,
+    "I found a squash court, a mail room, a very angry cook, and three thousand stairs."
+   ],
+   [
+    6.977833333333333,
+    9.04425,
+    "I did not find any binoculars."
+   ]
+  ]
+ },
+ {
+  "id": "night",
+  "dur": 13.623708333333333,
+  "pause": 0.6,
+  "text": "By the time I climbed back up, it was night. The air was freezing. The sea was flat and black, like glass. No moon. No waves. Just stars. Beautiful. And terrifying.",
+  "sents": [
+   [
+    0.0,
+    2.4789583333333334,
+    "By the time I climbed back up, it was night."
+   ],
+   [
+    2.8189583333333332,
+    4.204958333333333,
+    "The air was freezing."
+   ],
+   [
+    4.544958333333334,
+    6.791416666666667,
+    "The sea was flat and black, like glass."
+   ],
+   [
+    7.1314166666666665,
+    8.037958333333334,
+    "No moon."
+   ],
+   [
+    8.377958333333334,
+    9.385,
+    "No waves."
+   ],
+   [
+    9.725000000000001,
+    10.82825,
+    "Just stars."
+   ],
+   [
+    11.168250000000002,
+    12.097958333333336,
+    "Beautiful."
+   ],
+   [
+    12.437958333333336,
+    13.623708333333337,
+    "And terrifying."
+   ]
+  ]
+ },
+ {
+  "id": "crowsnest",
+  "dur": 13.039166666666667,
+  "pause": 0.4,
+  "text": "I climbed to the crow's nest with a pair of opera glasses I borrowed from a very confused lady. The lookout squinted into the dark. Then he grabbed the bell. Three rings. Iceberg, right ahead!",
+  "sents": [
+   [
+    0.0,
+    5.837,
+    "I climbed to the crow's nest with a pair of opera glasses I borrowed from a very confused lady."
+   ],
+   [
+    6.177,
+    8.242249999999999,
+    "The lookout squinted into the dark."
+   ],
+   [
+    8.582249999999998,
+    9.971291666666666,
+    "Then he grabbed the bell."
+   ],
+   [
+    10.311291666666666,
+    11.381874999999999,
+    "Three rings."
+   ],
+   [
+    11.721874999999999,
+    13.039166666666667,
+    "Iceberg, right ahead!"
+   ]
+  ]
+ },
+ {
+  "id": "impact",
+  "dur": 11.799125,
+  "pause": 0.6,
+  "text": "At eleven forty that night, the Titanic scraped along the iceberg. It didn't feel like a crash. It felt like a long, slow shiver. Upstairs, some passengers played with chunks of ice on the deck.",
+  "sents": [
+   [
+    0.0,
+    3.7192083333333334,
+    "At eleven forty that night, the Titanic scraped along the iceberg."
+   ],
+   [
+    4.059208333333333,
+    5.67875,
+    "It didn't feel like a crash."
+   ],
+   [
+    6.01875,
+    7.925291666666666,
+    "It felt like a long, slow shiver."
+   ],
+   [
+    8.265291666666666,
+    11.799125,
+    "Upstairs, some passengers played with chunks of ice on the deck."
+   ]
+  ]
+ },
+ {
+  "id": "harder",
+  "dur": 9.797625,
+  "pause": 0.8,
+  "text": "And that's when I understood. Changing history is not like changing a TV channel. I knew the ending, but I couldn't stop it. All I could do was help.",
+  "sents": [
+   [
+    0.0,
+    1.6257083333333333,
+    "And that's when I understood."
+   ],
+   [
+    1.9657083333333334,
+    5.279416666666667,
+    "Changing history is not like changing a TV channel."
+   ],
+   [
+    5.619416666666667,
+    7.861000000000001,
+    "I knew the ending, but I couldn't stop it."
+   ],
+   [
+    8.201,
+    9.797625,
+    "All I could do was help."
+   ]
+  ]
+ },
+ {
+  "id": "help1",
+  "dur": 10.196666666666667,
+  "pause": 0.4,
+  "text": "So I stopped trying to be a hero, and started being useful. I knocked on doors and told people to put on their life jackets. I showed families the way up to the boat deck.",
+  "sents": [
+   [
+    0.0,
+    3.31325,
+    "So I stopped trying to be a hero, and started being useful."
+   ],
+   [
+    3.65325,
+    7.286625,
+    "I knocked on doors and told people to put on their life jackets."
+   ],
+   [
+    7.626625,
+    10.196666666666665,
+    "I showed families the way up to the boat deck."
+   ]
+  ]
+ },
+ {
+  "id": "help2",
+  "dur": 11.67,
+  "pause": 0.4,
+  "text": "The first lifeboats left half empty, because many people still didn't believe the ship could sink. So I kept saying the only thing that mattered. Every seat counts. Please, get in the boat.",
+  "sents": [
+   [
+    0.0,
+    5.505625,
+    "The first lifeboats left half empty, because many people still didn't believe the ship could sink."
+   ],
+   [
+    5.845625,
+    8.266791666666666,
+    "So I kept saying the only thing that mattered."
+   ],
+   [
+    8.606791666666666,
+    9.922041666666667,
+    "Every seat counts."
+   ],
+   [
+    10.262041666666667,
+    11.67,
+    "Please, get in the boat."
+   ]
+  ]
+ },
+ {
+  "id": "help3",
+  "dur": 10.608625,
+  "pause": 0.6,
+  "text": "I helped a little girl find her mother in the crowd. I gave my coat to an old man who was shaking from the cold. And all around us, the ship's band kept playing, to keep everyone calm.",
+  "sents": [
+   [
+    0.0,
+    2.67425,
+    "I helped a little girl find her mother in the crowd."
+   ],
+   [
+    3.0142499999999997,
+    6.341625,
+    "I gave my coat to an old man who was shaking from the cold."
+   ],
+   [
+    6.6816249999999995,
+    10.608625,
+    "And all around us, the ship's band kept playing, to keep everyone calm."
+   ]
+  ]
+ },
+ {
+  "id": "respect",
+  "dur": 22.140833333333333,
+  "pause": 1.0,
+  "text": "The Titanic sank at two twenty in the morning, on April the fifteenth. More than fifteen hundred people lost their lives. The ship Carpathia rescued about seven hundred survivors from the lifeboats. It's one of the saddest nights in history, and it changed the rules of the sea forever. After the Titanic, every ship had to carry enough lifeboats for everyone on board.",
+  "sents": [
+   [
+    0.0,
+    3.9146666666666667,
+    "The Titanic sank at two twenty in the morning, on April the fifteenth."
+   ],
+   [
+    4.254666666666667,
+    6.97625,
+    "More than fifteen hundred people lost their lives."
+   ],
+   [
+    7.31625,
+    11.804583333333333,
+    "The ship Carpathia rescued about seven hundred survivors from the lifeboats."
+   ],
+   [
+    12.144583333333333,
+    16.97383333333333,
+    "It's one of the saddest nights in history, and it changed the rules of the sea forever."
+   ],
+   [
+    17.313833333333335,
+    22.140833333333333,
+    "After the Titanic, every ship had to carry enough lifeboats for everyone on board."
+   ]
+  ]
+ },
+ {
+  "id": "return",
+  "dur": 11.873916666666666,
+  "pause": 0.5,
+  "text": "Sitting in a lifeboat, wrapped in a blanket, I felt the machine in my pocket start to buzz. The dials spun, the light came back, and I was home. Sitting on my bedroom floor. Soaking wet.",
+  "sents": [
+   [
+    0.0,
+    5.165333333333334,
+    "Sitting in a lifeboat, wrapped in a blanket, I felt the machine in my pocket start to buzz."
+   ],
+   [
+    5.505333333333334,
+    8.419875000000001,
+    "The dials spun, the light came back, and I was home."
+   ],
+   [
+    8.759875000000001,
+    10.506,
+    "Sitting on my bedroom floor."
+   ],
+   [
+    10.846,
+    11.873916666666666,
+    "Soaking wet."
+   ]
+  ]
+ },
+ {
+  "id": "promise",
+  "dur": 9.108666666666666,
+  "pause": 0.4,
+  "text": "I looked at the machine, and made a promise. No more time travel. Never again. I'm putting you in the closet, and I'm never touching you again.",
+  "sents": [
+   [
+    0.0,
+    2.317083333333333,
+    "I looked at the machine, and made a promise."
+   ],
+   [
+    2.657083333333333,
+    4.132375,
+    "No more time travel."
+   ],
+   [
+    4.4723749999999995,
+    5.540666666666667,
+    "Never again."
+   ],
+   [
+    5.8806666666666665,
+    9.108666666666666,
+    "I'm putting you in the closet, and I'm never touching you again."
+   ]
+  ]
+ },
+ {
+  "id": "click",
+  "dur": 9.31875,
+  "pause": 0.4,
+  "text": "And then I tripped over my backpack, fell on the machine, and heard a very small click. The screen lit up. Pompeii. A D seventy nine.",
+  "sents": [
+   [
+    0.0,
+    4.598583333333333,
+    "And then I tripped over my backpack, fell on the machine, and heard a very small click."
+   ],
+   [
+    4.938583333333333,
+    6.228708333333333,
+    "The screen lit up."
+   ],
+   [
+    6.568708333333333,
+    7.52425,
+    "Pompeii."
+   ],
+   [
+    7.86425,
+    9.31875,
+    "A D seventy nine."
+   ]
+  ]
+ },
+ {
+  "id": "scream",
+  "dur": 1.26425,
+  "pause": 0.8,
+  "text": "ARE YOU KIDDING ME?!",
+  "sents": [
+   [
+    0.0,
+    1.26425,
+    "ARE YOU KIDDING ME?!"
+   ]
+  ]
+ },
+ {
+  "id": "outro",
+  "dur": 2.9775416666666668,
+  "pause": 1.0,
+  "text": "Subscribe to History World to see what happens next!",
+  "sents": [
+   [
+    0.0,
+    2.9775416666666668,
+    "Subscribe to History World to see what happens next!"
+   ]
+  ]
+ }
+]
