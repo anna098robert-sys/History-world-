@@ -1,0 +1,112 @@
+{
+ "fps": 30,
+ "total": 34.5,
+ "frames": 1035,
+ "shots": [
+  {
+   "id": "s_hook",
+   "start": 0.0,
+   "dur": 5.0,
+   "vo": "short/vo/s_hook.mp3",
+   "voOff": 0.15,
+   "voDur": 4.147,
+   "sents": [
+    [
+     0.15,
+     2.3988,
+     "I bought a time machine for five dollars."
+    ],
+    [
+     2.7388,
+     4.297,
+     "Worst decision of my life!"
+    ]
+   ]
+  },
+  {
+   "id": "s_travel",
+   "start": 5.0,
+   "dur": 7.0,
+   "vo": "short/vo/s_travel.mp3",
+   "voOff": 1.5,
+   "voDur": 3.1425,
+   "sents": [
+    [
+     1.5,
+     4.6425,
+     "Ten seconds later, I was standing in 1912!"
+    ]
+   ]
+  },
+  {
+   "id": "s_reveal",
+   "start": 12.0,
+   "dur": 8.0,
+   "vo": "short/vo/s_reveal.mp3",
+   "voOff": 0.9,
+   "voDur": 3.803,
+   "sents": [
+    [
+     0.9,
+     2.4402,
+     "I looked at the enormous ship."
+    ],
+    [
+     2.7802,
+     3.4649,
+     "Wait..."
+    ],
+    [
+     3.8049,
+     4.703,
+     "TITANIC?!"
+    ]
+   ]
+  },
+  {
+   "id": "s_panic",
+   "start": 20.0,
+   "dur": 8.0,
+   "vo": "short/vo/s_panic.mp3",
+   "voOff": 0.3,
+   "voDur": 5.1676,
+   "sents": [
+    [
+     0.3,
+     1.7163,
+     "Everyone was excited."
+    ],
+    [
+     2.0563,
+     3.0129,
+     "Except me."
+    ],
+    [
+     3.3529,
+     5.4676,
+     "Because I already knew what was going to happen!"
+    ]
+   ]
+  },
+  {
+   "id": "s_cliff",
+   "start": 28.0,
+   "dur": 6.5,
+   "vo": "short/vo/s_cliff.mp3",
+   "voOff": 0.25,
+   "voDur": 3.9403,
+   "sents": [
+    [
+     0.25,
+     1.6333,
+     "Could I change history?"
+    ],
+    [
+     1.9733,
+     4.1903,
+     "Watch the full adventure on History World!"
+    ]
+   ]
+  }
+ ]
+}

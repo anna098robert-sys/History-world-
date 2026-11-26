@@ -3,7 +3,8 @@ Usage: python3 narrate.py <kokoro.onnx> <voices.bin> <outdir>"""
 import sys, os, re, json, subprocess
 import numpy as np, soundfile as sf
 from kokoro_onnx import Kokoro
-from story import SHOTS
+import importlib
+SHOTS = importlib.import_module(os.environ.get('STORY', 'story')).SHOTS
 
 model, voices, out = sys.argv[1:4]
 os.makedirs(out, exist_ok=True)

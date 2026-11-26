@@ -1,0 +1,97 @@
+[
+ {
+  "id": "s_hook",
+  "dur": 4.146958333333333,
+  "pause": 0.2,
+  "text": "I bought a time machine for five dollars. Worst decision of my life!",
+  "sents": [
+   [
+    0.0,
+    2.2488333333333332,
+    "I bought a time machine for five dollars."
+   ],
+   [
+    2.588833333333333,
+    4.146958333333333,
+    "Worst decision of my life!"
+   ]
+  ]
+ },
+ {
+  "id": "s_travel",
+  "dur": 3.1424583333333334,
+  "pause": 0.2,
+  "text": "Ten seconds later, I was standing in 1912!",
+  "sents": [
+   [
+    0.0,
+    3.1424583333333334,
+    "Ten seconds later, I was standing in 1912!"
+   ]
+  ]
+ },
+ {
+  "id": "s_reveal",
+  "dur": 3.803,
+  "pause": 0.3,
+  "text": "I looked at the enormous ship. Wait... TITANIC?!",
+  "sents": [
+   [
+    0.0,
+    1.5402083333333334,
+    "I looked at the enormous ship."
+   ],
+   [
+    1.8802083333333335,
+    2.564916666666667,
+    "Wait..."
+   ],
+   [
+    2.904916666666667,
+    3.803,
+    "TITANIC?!"
+   ]
+  ]
+ },
+ {
+  "id": "s_panic",
+  "dur": 5.167625,
+  "pause": 0.3,
+  "text": "Everyone was excited. Except me. Because I already knew what was going to happen!",
+  "sents": [
+   [
+    0.0,
+    1.4163333333333334,
+    "Everyone was excited."
+   ],
+   [
+    1.7563333333333335,
+    2.7129166666666666,
+    "Except me."
+   ],
+   [
+    3.052916666666667,
+    5.167625,
+    "Because I already knew what was going to happen!"
+   ]
+  ]
+ },
+ {
+  "id": "s_cliff",
+  "dur": 3.9403333333333332,
+  "pause": 0.5,
+  "text": "Could I change history? Watch the full adventure on History World!",
+  "sents": [
+   [
+    0.0,
+    1.3833333333333333,
+    "Could I change history?"
+   ],
+   [
+    1.7233333333333334,
+    3.9403333333333332,
+    "Watch the full adventure on History World!"
+   ]
+  ]
+ }
+]

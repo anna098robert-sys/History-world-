@@ -8,11 +8,12 @@ import {execFileSync} from 'child_process';
 const out = process.argv[2] || 'out/stills';
 const only = process.argv.slice(3);
 fs.mkdirSync(out, {recursive: true});
-const timeline = JSON.parse(fs.readFileSync('src/timeline.json', 'utf8'));
+const COMP = process.env.COMP || 'Titanic';
+const timeline = JSON.parse(fs.readFileSync(COMP === 'Titanic' ? 'src/timeline.json' : 'src/short/timeline.json', 'utf8'));
 const shell = '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell';
 const browserExecutable = fs.existsSync(shell) ? shell : null;
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
-const composition = await selectComposition({serveUrl, id: 'Titanic', browserExecutable});
+const composition = await selectComposition({serveUrl, id: COMP, browserExecutable});
 for (const [i, shot] of timeline.shots.entries()) {
   if (only.length && !only.includes(shot.id)) continue;
   const files = [];

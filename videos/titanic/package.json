@@ -6,7 +6,8 @@
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render src/index.ts Titanic out/raw.mp4 && npm run master",
-    "master": "remotion ffmpeg -y -i out/raw.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -movflags +faststart out/i-accidentally-boarded-the-titanic.mp4"
+    "master": "remotion ffmpeg -y -i out/raw.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -movflags +faststart out/i-accidentally-boarded-the-titanic.mp4",
+    "render:short": "remotion render src/index.ts TitanicShort out/short-raw.mp4 && remotion ffmpeg -y -i out/short-raw.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -movflags +faststart out/titanic-short.mp4"
   },
   "dependencies": {
     "@remotion/cli": "4.0.542",

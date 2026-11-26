@@ -37,3 +37,21 @@ All assets needed for rendering are committed (`public/vo/*.mp3`, `public/audio/
 | `tools/stills.mjs` | Review contact sheets per shot |
 | `tools/build.sh` | Full rebuild (voice → timeline → audio → render) |
 | `script.md` | Narration with timestamps per scene + fact check |
+
+## The Short (vertical 9:16)
+
+A second composition, `TitanicShort` (34.6 s, 1080×1920, 30 fps), lives in the same project and reuses the episode's
+hero, cast, ship, time machine, bedroom, vortex and effects.
+
+```bash
+npm run render:short   # -> out/titanic-short.mp4
+```
+
+| Path | What it is |
+|---|---|
+| `src/short/ShortScenes.tsx` | The 5 vertical scenes (hook, time travel, reveal, panic, cliffhanger) + 1912 harbour |
+| `src/short/ShortVideo.tsx` | Sequences, narration, music bed and large word-by-word subtitles |
+| `src/short/timeline.json` | Scene timing (`tools/short_timeline.py`) |
+| `tools/short_story.py` | Narration (exact lines from the brief) |
+| `tools/short_audio.py` | Music + SFX bed for the Short |
+| `public/short/` | Short narration and bed (MP3) |
