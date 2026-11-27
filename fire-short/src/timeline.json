@@ -1,0 +1,303 @@
+{
+ "fps": 30,
+ "durationSec": 50.0,
+ "scenes": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "end": 4.0
+  },
+  {
+   "id": "street",
+   "start": 4.0,
+   "end": 11.0
+  },
+  {
+   "id": "bakery",
+   "start": 11.0,
+   "end": 18.0
+  },
+  {
+   "id": "burns",
+   "start": 18.0,
+   "end": 27.0
+  },
+  {
+   "id": "catastrophe",
+   "start": 27.0,
+   "end": 36.0
+  },
+  {
+   "id": "aftermath",
+   "start": 36.0,
+   "end": 44.0
+  },
+  {
+   "id": "twist",
+   "start": 44.0,
+   "end": 50.0
+  }
+ ],
+ "vo": [
+  {
+   "id": "s1",
+   "at": 0.1,
+   "text": "THE ENTIRE CITY IS BURNING! And I just woke up in 1666!"
+  },
+  {
+   "id": "s2",
+   "at": 4.3,
+   "text": "I was walking through London when suddenly, people started screaming. Fire was spreading everywhere!"
+  },
+  {
+   "id": "s3",
+   "at": 11.3,
+   "text": "It all started in a small bakery on Pudding Lane. But nobody expected what would happen next."
+  },
+  {
+   "id": "s4",
+   "at": 18.3,
+   "text": "The wooden houses were catching fire one after another. The wind was pushing the flames across the city!"
+  },
+  {
+   "id": "s5",
+   "at": 27.3,
+   "text": "I tried to escape, but every street looked like a giant wall of fire. Even the famous old St. Paul's Cathedral was destroyed!"
+  },
+  {
+   "id": "s6",
+   "at": 36.6,
+   "text": "Four days later, most of the medieval city was in ruins. I thought I had escaped history\u2026"
+  },
+  {
+   "id": "s7a",
+   "at": 44.15,
+   "text": "Then my time machine said:"
+  },
+  {
+   "id": "s7b",
+   "at": 45.45,
+   "text": "DESTINATION: POMPEII."
+  },
+  {
+   "id": "s7c",
+   "at": 47.4,
+   "text": "WAIT\u2026 NOT AGAIN!"
+  }
+ ],
+ "sfx": [
+  {
+   "id": "roar",
+   "at": 0.0,
+   "vol": 0.7,
+   "len": 4.2
+  },
+  {
+   "id": "boom",
+   "at": 0.0,
+   "vol": 0.8
+  },
+  {
+   "id": "whoosh",
+   "at": 1.55,
+   "vol": 0.6
+  },
+  {
+   "id": "crowd",
+   "at": 1.6,
+   "vol": 0.5,
+   "len": 2.6
+  },
+  {
+   "id": "whoosh",
+   "at": 3.9,
+   "vol": 0.6
+  },
+  {
+   "id": "steps",
+   "at": 4.1,
+   "vol": 0.4
+  },
+  {
+   "id": "crowd",
+   "at": 6.3,
+   "vol": 0.6,
+   "len": 4.7
+  },
+  {
+   "id": "run",
+   "at": 6.3,
+   "vol": 0.35,
+   "len": 2.3
+  },
+  {
+   "id": "bell",
+   "at": 8.0,
+   "vol": 0.5
+  },
+  {
+   "id": "whoosh",
+   "at": 8.55,
+   "vol": 0.5
+  },
+  {
+   "id": "hit",
+   "at": 8.9,
+   "vol": 0.6
+  },
+  {
+   "id": "whoosh",
+   "at": 10.9,
+   "vol": 0.6
+  },
+  {
+   "id": "crackle",
+   "at": 11.0,
+   "vol": 0.5,
+   "len": 7.0
+  },
+  {
+   "id": "ignite",
+   "at": 13.3,
+   "vol": 0.9
+  },
+  {
+   "id": "ignite",
+   "at": 15.9,
+   "vol": 0.6
+  },
+  {
+   "id": "ignite",
+   "at": 16.7,
+   "vol": 0.6
+  },
+  {
+   "id": "hit",
+   "at": 17.2,
+   "vol": 0.6
+  },
+  {
+   "id": "whoosh",
+   "at": 17.9,
+   "vol": 0.6
+  },
+  {
+   "id": "roar",
+   "at": 18.0,
+   "vol": 0.5,
+   "len": 9.0
+  },
+  {
+   "id": "wind",
+   "at": 18.2,
+   "vol": 0.6
+  },
+  {
+   "id": "run",
+   "at": 20.5,
+   "vol": 0.5,
+   "len": 4.5
+  },
+  {
+   "id": "crash",
+   "at": 21.6,
+   "vol": 0.9
+  },
+  {
+   "id": "whoosh",
+   "at": 22.9,
+   "vol": 0.6
+  },
+  {
+   "id": "wind",
+   "at": 24.8,
+   "vol": 0.6
+  },
+  {
+   "id": "whoosh",
+   "at": 26.9,
+   "vol": 0.6
+  },
+  {
+   "id": "roar",
+   "at": 27.0,
+   "vol": 0.5,
+   "len": 9.0
+  },
+  {
+   "id": "hit",
+   "at": 27.9,
+   "vol": 0.5
+  },
+  {
+   "id": "hit",
+   "at": 28.7,
+   "vol": 0.5
+  },
+  {
+   "id": "bell",
+   "at": 32.0,
+   "vol": 0.6
+  },
+  {
+   "id": "crash",
+   "at": 34.4,
+   "vol": 1.0
+  },
+  {
+   "id": "boom",
+   "at": 34.4,
+   "vol": 0.6
+  },
+  {
+   "id": "ash",
+   "at": 36.0,
+   "vol": 0.6
+  },
+  {
+   "id": "wind",
+   "at": 37.0,
+   "vol": 0.35
+  },
+  {
+   "id": "steps",
+   "at": 40.0,
+   "vol": 0.35
+  },
+  {
+   "id": "beep",
+   "at": 44.3,
+   "vol": 0.6
+  },
+  {
+   "id": "powerup",
+   "at": 44.6,
+   "vol": 0.6
+  },
+  {
+   "id": "alarm",
+   "at": 45.4,
+   "vol": 0.5
+  },
+  {
+   "id": "hit",
+   "at": 47.35,
+   "vol": 0.8
+  },
+  {
+   "id": "portal",
+   "at": 47.5,
+   "vol": 0.9
+  },
+  {
+   "id": "pop",
+   "at": 48.45,
+   "vol": 0.7
+  },
+  {
+   "id": "sparkle",
+   "at": 48.8,
+   "vol": 0.6
+  }
+ ]
+}
