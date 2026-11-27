@@ -1,0 +1,30 @@
+{
+  "fps": 30,
+  "durationSec": 12.0,
+  "beats": {
+    "warCry": 2.0,
+    "marchStart": 3.3,
+    "lookLeft": 3.8,
+    "lookRight": 4.9,
+    "eyesWiden": 6.0,
+    "handsUpStart": 6.4,
+    "handsUpEnd": 8.6,
+    "gulp": 10.6
+  },
+  "sfx": [
+    {"id": "wind",     "at": 0.0,  "vol": 0.5},
+    {"id": "clang",    "at": 0.35, "vol": 0.6},
+    {"id": "clang",    "at": 0.95, "vol": 0.5},
+    {"id": "clang",    "at": 1.45, "vol": 0.6},
+    {"id": "warcry",   "at": 2.0,  "vol": 0.9},
+    {"id": "clang",    "at": 2.05, "vol": 0.8},
+    {"id": "march",    "at": 3.3,  "vol": 0.8},
+    {"id": "whoosh",   "at": 3.75, "vol": 0.5},
+    {"id": "whoosh",   "at": 4.85, "vol": 0.5},
+    {"id": "hit",      "at": 6.0,  "vol": 0.8},
+    {"id": "heartbeat","at": 6.3,  "vol": 0.7},
+    {"id": "rise",     "at": 6.4,  "vol": 0.5},
+    {"id": "warcry",   "at": 9.0,  "vol": 0.6},
+    {"id": "gulp",     "at": 10.6, "vol": 0.8}
+  ]
+}
