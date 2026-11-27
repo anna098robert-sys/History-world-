@@ -1,0 +1,22 @@
+{
+  "name": "history-world-mummy-short",
+  "version": "1.0.0",
+  "private": true,
+  "description": "History World Short: I Accidentally Woke Up a Mummy!",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts MummyShort out/mummy-short.mp4 --codec=h264 --crf=18",
+    "still": "remotion still src/index.ts MummyShort out/still.png"
+  },
+  "dependencies": {
+    "@fontsource/luckiest-guy": "^5.1.0",
+    "@remotion/cli": "4.0.290",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.290"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}
