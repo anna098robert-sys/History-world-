@@ -1,0 +1,133 @@
+[
+ {
+  "id": "b_hook",
+  "dur": 4.859583333333333,
+  "pause": 0.2,
+  "text": "WAIT... THEY'RE DESTROYING THE WALL?! I JUST ARRIVED IN 1989!",
+  "sents": [
+   [
+    0.0,
+    0.639,
+    "WAIT..."
+   ],
+   [
+    0.9790000000000001,
+    2.2757500000000004,
+    "THEY'RE DESTROYING THE WALL?!"
+   ],
+   [
+    2.6157500000000002,
+    4.859583333333333,
+    "I JUST ARRIVED IN 1989!"
+   ]
+  ]
+ },
+ {
+  "id": "b_crowd",
+  "dur": 4.999625,
+  "pause": 0.2,
+  "text": "I was standing in Berlin when thousands of people suddenly rushed toward a giant concrete wall.",
+  "sents": [
+   [
+    0.0,
+    4.999625,
+    "I was standing in Berlin when thousands of people suddenly rushed toward a giant concrete wall."
+   ]
+  ]
+ },
+ {
+  "id": "b_divided",
+  "dur": 6.763416666666667,
+  "pause": 0.2,
+  "text": "For 28 years, this wall had separated East and West Berlin. Families, friends, even entire lives were divided.",
+  "sents": [
+   [
+    0.0,
+    3.5575,
+    "For 28 years, this wall had separated East and West Berlin."
+   ],
+   [
+    3.8975,
+    6.763416666666666,
+    "Families, friends, even entire lives were divided."
+   ]
+  ]
+ },
+ {
+  "id": "b_cross",
+  "dur": 6.2005,
+  "pause": 0.2,
+  "text": "But on November 9, 1989, something unbelievable happened. People started crossing the border!",
+  "sents": [
+   [
+    0.0,
+    4.134,
+    "But on November 9, 1989, something unbelievable happened."
+   ],
+   [
+    4.474,
+    6.2005,
+    "People started crossing the border!"
+   ]
+  ]
+ },
+ {
+  "id": "b_hammer",
+  "dur": 5.374083333333333,
+  "pause": 0.2,
+  "text": "Some were crying, others were laughing. People climbed onto the wall and started smashing it with hammers!",
+  "sents": [
+   [
+    0.0,
+    1.8842083333333333,
+    "Some were crying, others were laughing."
+   ],
+   [
+    2.2242083333333333,
+    5.374083333333333,
+    "People climbed onto the wall and started smashing it with hammers!"
+   ]
+  ]
+ },
+ {
+  "id": "b_hug",
+  "dur": 4.65625,
+  "pause": 0.2,
+  "text": "And for the first time in decades... people could finally hug their families again.",
+  "sents": [
+   [
+    0.0,
+    1.82525,
+    "And for the first time in decades..."
+   ],
+   [
+    2.16525,
+    4.65625,
+    "people could finally hug their families again."
+   ]
+  ]
+ },
+ {
+  "id": "b_end",
+  "dur": 6.15525,
+  "pause": 0.4,
+  "text": "I thought history was over... until my time machine started flashing again! SUBSCRIBE TO HISTORY WORLD!",
+  "sents": [
+   [
+    0.0,
+    1.5564583333333333,
+    "I thought history was over..."
+   ],
+   [
+    1.8964583333333334,
+    4.2167916666666665,
+    "until my time machine started flashing again!"
+   ],
+   [
+    4.556791666666666,
+    6.15525,
+    "SUBSCRIBE TO HISTORY WORLD!"
+   ]
+  ]
+ }
+]

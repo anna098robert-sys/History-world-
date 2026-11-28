@@ -1,0 +1,152 @@
+{
+ "fps": 30,
+ "total": 45.328,
+ "frames": 1360,
+ "shots": [
+  {
+   "id": "b_hook",
+   "start": 0.0,
+   "dur": 5.21,
+   "vo": "vo/b_hook.mp3",
+   "voOff": 0.1,
+   "voDur": 4.8596,
+   "sents": [
+    [
+     0.1,
+     0.739,
+     "WAIT..."
+    ],
+    [
+     1.079,
+     2.3758,
+     "THEY'RE DESTROYING THE WALL?!"
+    ],
+    [
+     2.7158,
+     4.9596,
+     "I JUST ARRIVED IN 1989!"
+    ]
+   ]
+  },
+  {
+   "id": "b_crowd",
+   "start": 5.21,
+   "dur": 6.2,
+   "vo": "vo/b_crowd.mp3",
+   "voOff": 0.4,
+   "voDur": 4.9996,
+   "sents": [
+    [
+     0.4,
+     5.3996,
+     "I was standing in Berlin when thousands of people suddenly rushed toward a giant concrete wall."
+    ]
+   ]
+  },
+  {
+   "id": "b_divided",
+   "start": 11.41,
+   "dur": 7.163,
+   "vo": "vo/b_divided.mp3",
+   "voOff": 0.15,
+   "voDur": 6.7634,
+   "sents": [
+    [
+     0.15,
+     3.7075,
+     "For 28 years, this wall had separated East and West Berlin."
+    ],
+    [
+     4.0475,
+     6.9134,
+     "Families, friends, even entire lives were divided."
+    ]
+   ]
+  },
+  {
+   "id": "b_cross",
+   "start": 18.573,
+   "dur": 7.2,
+   "vo": "vo/b_cross.mp3",
+   "voOff": 0.4,
+   "voDur": 6.2005,
+   "sents": [
+    [
+     0.4,
+     4.534,
+     "But on November 9, 1989, something unbelievable happened."
+    ],
+    [
+     4.874,
+     6.6005,
+     "People started crossing the border!"
+    ]
+   ]
+  },
+  {
+   "id": "b_hammer",
+   "start": 25.773,
+   "dur": 6.8,
+   "vo": "vo/b_hammer.mp3",
+   "voOff": 0.5,
+   "voDur": 5.3741,
+   "sents": [
+    [
+     0.5,
+     2.3842,
+     "Some were crying, others were laughing."
+    ],
+    [
+     2.7242,
+     5.8741,
+     "People climbed onto the wall and started smashing it with hammers!"
+    ]
+   ]
+  },
+  {
+   "id": "b_hug",
+   "start": 32.573,
+   "dur": 6.2,
+   "vo": "vo/b_hug.mp3",
+   "voOff": 0.8,
+   "voDur": 4.6562,
+   "sents": [
+    [
+     0.8,
+     2.6253,
+     "And for the first time in decades..."
+    ],
+    [
+     2.9653,
+     5.4562,
+     "people could finally hug their families again."
+    ]
+   ]
+  },
+  {
+   "id": "b_end",
+   "start": 38.773,
+   "dur": 6.555,
+   "vo": "vo/b_end.mp3",
+   "voOff": 0.15,
+   "voDur": 6.1552,
+   "sents": [
+    [
+     0.15,
+     1.7065,
+     "I thought history was over..."
+    ],
+    [
+     2.0465,
+     4.3668,
+     "until my time machine started flashing again!"
+    ],
+    [
+     4.7068,
+     6.3053,
+     "SUBSCRIBE TO HISTORY WORLD!"
+    ]
+   ]
+  }
+ ]
+}
