@@ -1,0 +1,152 @@
+{
+ "fps": 30,
+ "total": 45.004,
+ "frames": 1350,
+ "shots": [
+  {
+   "id": "p_hook",
+   "start": 0.0,
+   "dur": 4.004,
+   "vo": "vo/p_hook.mp3",
+   "voOff": 0.05,
+   "voDur": 3.7545,
+   "sents": [
+    [
+     0.05,
+     2.6667,
+     "THE SKY IS TURNING BLACK\u2026 AND THE MOUNTAIN IS EXPLODING!"
+    ],
+    [
+     2.9067,
+     3.8045,
+     "WHAT IS HAPPENING?!"
+    ]
+   ]
+  },
+  {
+   "id": "p_city",
+   "start": 4.004,
+   "dur": 7.0,
+   "vo": "vo/p_city.mp3",
+   "voOff": 0.12,
+   "voDur": 6.6622,
+   "sents": [
+    [
+     0.12,
+     3.3027,
+     "I was walking through Pompeii in the year 79 AD."
+    ],
+    [
+     3.5427,
+     6.7822,
+     "People were shopping, talking, and enjoying an ordinary day."
+    ]
+   ]
+  },
+  {
+   "id": "p_erupt",
+   "start": 11.004,
+   "dur": 7.0,
+   "vo": "vo/p_erupt.mp3",
+   "voOff": 0.9,
+   "voDur": 4.5348,
+   "sents": [
+    [
+     0.9,
+     2.9959,
+     "Then suddenly\u2026 Mount Vesuvius erupted!"
+    ],
+    [
+     3.2359,
+     5.4348,
+     "A giant cloud of ash shot into the sky."
+    ]
+   ]
+  },
+  {
+   "id": "p_run",
+   "start": 18.004,
+   "dur": 7.4,
+   "vo": "vo/p_run.mp3",
+   "voOff": 0.3,
+   "voDur": 6.5757,
+   "sents": [
+    [
+     0.3,
+     1.5737,
+     "People started running."
+    ],
+    [
+     1.8137,
+     4.2139,
+     "Ash covered the streets, buildings, and rooftops."
+    ],
+    [
+     4.4539,
+     6.8757,
+     "Nobody understood how dangerous it was."
+    ]
+   ]
+  },
+  {
+   "id": "p_bury",
+   "start": 25.404,
+   "dur": 6.6,
+   "vo": "vo/p_bury.mp3",
+   "voOff": 0.8,
+   "voDur": 4.5408,
+   "sents": [
+    [
+     0.8,
+     5.3407,
+     "I looked up\u2026 and realized the entire city was disappearing beneath volcanic ash!"
+    ]
+   ]
+  },
+  {
+   "id": "p_escape",
+   "start": 32.004,
+   "dur": 6.0,
+   "vo": "vo/p_escape.mp3",
+   "voOff": 0.15,
+   "voDur": 5.5927,
+   "sents": [
+    [
+     0.15,
+     3.1784,
+     "I tried to escape, but everything around me was turning dark."
+    ],
+    [
+     3.4184,
+     5.7427,
+     "Pompeii would remain buried for centuries."
+    ]
+   ]
+  },
+  {
+   "id": "p_dig",
+   "start": 38.004,
+   "dur": 7.0,
+   "vo": "vo/p_dig.mp3",
+   "voOff": 0.2,
+   "voDur": 6.4919,
+   "sents": [
+    [
+     0.2,
+     1.4123,
+     "And the craziest part?"
+    ],
+    [
+     1.6523,
+     5.0113,
+     "Almost 2,000 years later, people would discover this lost city!"
+    ],
+    [
+     5.2513,
+     6.6919,
+     "SUBSCRIBE TO HISTORY WORLD!"
+    ]
+   ]
+  }
+ ]
+}

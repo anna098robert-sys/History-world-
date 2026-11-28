@@ -1,0 +1,133 @@
+[
+ {
+  "id": "p_hook",
+  "dur": 3.7544583333333335,
+  "pause": 0.0,
+  "text": "THE SKY IS TURNING BLACK\u2026 AND THE MOUNTAIN IS EXPLODING! WHAT IS HAPPENING?!",
+  "sents": [
+   [
+    0.0,
+    2.6166666666666667,
+    "THE SKY IS TURNING BLACK\u2026 AND THE MOUNTAIN IS EXPLODING!"
+   ],
+   [
+    2.8566666666666665,
+    3.754458333333333,
+    "WHAT IS HAPPENING?!"
+   ]
+  ]
+ },
+ {
+  "id": "p_city",
+  "dur": 6.662166666666667,
+  "pause": 0.0,
+  "text": "I was walking through Pompeii in the year 79 AD. People were shopping, talking, and enjoying an ordinary day.",
+  "sents": [
+   [
+    0.0,
+    3.1827083333333333,
+    "I was walking through Pompeii in the year 79 AD."
+   ],
+   [
+    3.4227083333333335,
+    6.662166666666667,
+    "People were shopping, talking, and enjoying an ordinary day."
+   ]
+  ]
+ },
+ {
+  "id": "p_erupt",
+  "dur": 4.534833333333333,
+  "pause": 0.0,
+  "text": "Then suddenly\u2026 Mount Vesuvius erupted! A giant cloud of ash shot into the sky.",
+  "sents": [
+   [
+    0.0,
+    2.0959166666666667,
+    "Then suddenly\u2026 Mount Vesuvius erupted!"
+   ],
+   [
+    2.335916666666667,
+    4.534833333333333,
+    "A giant cloud of ash shot into the sky."
+   ]
+  ]
+ },
+ {
+  "id": "p_run",
+  "dur": 6.575666666666667,
+  "pause": 0.0,
+  "text": "People started running. Ash covered the streets, buildings, and rooftops. Nobody understood how dangerous it was.",
+  "sents": [
+   [
+    0.0,
+    1.2736666666666667,
+    "People started running."
+   ],
+   [
+    1.5136666666666667,
+    3.913916666666667,
+    "Ash covered the streets, buildings, and rooftops."
+   ],
+   [
+    4.1539166666666665,
+    6.575666666666667,
+    "Nobody understood how dangerous it was."
+   ]
+  ]
+ },
+ {
+  "id": "p_bury",
+  "dur": 4.54075,
+  "pause": 0.0,
+  "text": "I looked up\u2026 and realized the entire city was disappearing beneath volcanic ash!",
+  "sents": [
+   [
+    0.0,
+    4.54075,
+    "I looked up\u2026 and realized the entire city was disappearing beneath volcanic ash!"
+   ]
+  ]
+ },
+ {
+  "id": "p_escape",
+  "dur": 5.592666666666666,
+  "pause": 0.0,
+  "text": "I tried to escape, but everything around me was turning dark. Pompeii would remain buried for centuries.",
+  "sents": [
+   [
+    0.0,
+    3.0284166666666668,
+    "I tried to escape, but everything around me was turning dark."
+   ],
+   [
+    3.268416666666667,
+    5.592666666666667,
+    "Pompeii would remain buried for centuries."
+   ]
+  ]
+ },
+ {
+  "id": "p_dig",
+  "dur": 6.491916666666667,
+  "pause": 0.0,
+  "text": "And the craziest part? Almost 2,000 years later, people would discover this lost city! SUBSCRIBE TO HISTORY WORLD!",
+  "sents": [
+   [
+    0.0,
+    1.2122916666666668,
+    "And the craziest part?"
+   ],
+   [
+    1.4522916666666668,
+    4.811333333333334,
+    "Almost 2,000 years later, people would discover this lost city!"
+   ],
+   [
+    5.051333333333333,
+    6.491916666666667,
+    "SUBSCRIBE TO HISTORY WORLD!"
+   ]
+  ]
+ }
+]
