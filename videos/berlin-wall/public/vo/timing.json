@@ -1,0 +1,823 @@
+[
+ {
+  "id": "hook",
+  "dur": 15.658541666666666,
+  "pause": 0.4,
+  "text": "I'm sitting on top of the most famous wall in the world. I'm holding a hammer. Thousands of people are cheering. And the border guards? They're just watching. Last week, this would have been impossible. Tonight, history is breaking. Literally.",
+  "sents": [
+   [
+    0.0,
+    2.917333333333333,
+    "I'm sitting on top of the most famous wall in the world."
+   ],
+   [
+    3.237333333333333,
+    4.578666666666666,
+    "I'm holding a hammer."
+   ],
+   [
+    4.898666666666666,
+    6.746833333333333,
+    "Thousands of people are cheering."
+   ],
+   [
+    7.066833333333333,
+    8.317,
+    "And the border guards?"
+   ],
+   [
+    8.637,
+    10.004041666666668,
+    "They're just watching."
+   ],
+   [
+    10.324041666666668,
+    12.412916666666668,
+    "Last week, this would have been impossible."
+   ],
+   [
+    12.732916666666668,
+    14.458583333333335,
+    "Tonight, history is breaking."
+   ],
+   [
+    14.778583333333334,
+    15.658541666666666,
+    "Literally."
+   ]
+  ]
+ },
+ {
+  "id": "glitch",
+  "dur": 13.51275,
+  "pause": 0.5,
+  "text": "Okay, let me explain. My five dollar time machine has a mind of its own. I pressed one button, and instead of going home, I landed in Berlin. Not in 1989. In 1961.",
+  "sents": [
+   [
+    0.0,
+    1.521625,
+    "Okay, let me explain."
+   ],
+   [
+    1.841625,
+    4.786791666666667,
+    "My five dollar time machine has a mind of its own."
+   ],
+   [
+    5.106791666666666,
+    8.981708333333334,
+    "I pressed one button, and instead of going home, I landed in Berlin."
+   ],
+   [
+    9.301708333333334,
+    11.297916666666667,
+    "Not in 1989."
+   ],
+   [
+    11.617916666666668,
+    13.51275,
+    "In 1961."
+   ]
+  ]
+ },
+ {
+  "id": "map",
+  "dur": 14.155625,
+  "pause": 0.5,
+  "text": "Quick history lesson. After World War Two, Germany was split in two. West Germany, and communist East Germany. And Berlin, deep inside East Germany, was split too. Half the city was free. The other half wasn't.",
+  "sents": [
+   [
+    0.0,
+    1.3972083333333334,
+    "Quick history lesson."
+   ],
+   [
+    1.7172083333333334,
+    4.35225,
+    "After World War Two, Germany was split in two."
+   ],
+   [
+    4.67225,
+    7.275083333333333,
+    "West Germany, and communist East Germany."
+   ],
+   [
+    7.595083333333333,
+    10.675875,
+    "And Berlin, deep inside East Germany, was split too."
+   ],
+   [
+    10.995875,
+    12.466083333333334,
+    "Half the city was free."
+   ],
+   [
+    12.786083333333334,
+    14.155625,
+    "The other half wasn't."
+   ]
+  ]
+ },
+ {
+  "id": "escape",
+  "dur": 12.790041666666667,
+  "pause": 0.5,
+  "text": "Millions of East Germans simply walked into West Berlin, and never came back. Almost three million people left. Doctors, engineers, entire families. The East German government was losing its people.",
+  "sents": [
+   [
+    0.0,
+    4.50325,
+    "Millions of East Germans simply walked into West Berlin, and never came back."
+   ],
+   [
+    4.823250000000001,
+    6.846083333333334,
+    "Almost three million people left."
+   ],
+   [
+    7.166083333333334,
+    9.601083333333333,
+    "Doctors, engineers, entire families."
+   ],
+   [
+    9.921083333333334,
+    12.790041666666667,
+    "The East German government was losing its people."
+   ]
+  ]
+ },
+ {
+  "id": "night61",
+  "dur": 11.56725,
+  "pause": 0.4,
+  "text": "So on the night of August the thirteenth, nineteen sixty one, soldiers rolled out barbed wire right through the middle of the city. Streets, parks, even cemeteries, cut in half. Overnight.",
+  "sents": [
+   [
+    0.0,
+    7.290333333333334,
+    "So on the night of August the thirteenth, nineteen sixty one, soldiers rolled out barbed wire right through the middle of the city."
+   ],
+   [
+    7.610333333333334,
+    10.344166666666666,
+    "Streets, parks, even cemeteries, cut in half."
+   ],
+   [
+    10.664166666666667,
+    11.56725,
+    "Overnight."
+   ]
+  ]
+ },
+ {
+  "id": "morning",
+  "dur": 11.693291666666667,
+  "pause": 0.5,
+  "text": "People woke up, and their city was gone. A girl couldn't visit her grandma across the street. A man couldn't get to work. I tried to step over the wire, and a soldier gave me a look I'll never forget.",
+  "sents": [
+   [
+    0.0,
+    2.2625,
+    "People woke up, and their city was gone."
+   ],
+   [
+    2.5825,
+    5.2259166666666665,
+    "A girl couldn't visit her grandma across the street."
+   ],
+   [
+    5.545916666666667,
+    7.118,
+    "A man couldn't get to work."
+   ],
+   [
+    7.438000000000001,
+    11.693291666666667,
+    "I tried to step over the wire, and a soldier gave me a look I'll never forget."
+   ]
+  ]
+ },
+ {
+  "id": "schumann",
+  "dur": 14.677708333333333,
+  "pause": 0.6,
+  "text": "Two days later, I saw something amazing. A young border guard named Conrad Schumann ran toward the barbed wire, and jumped right over it, into the West. A photographer caught the moment. It became one of the most famous photos of the century.",
+  "sents": [
+   [
+    0.0,
+    2.4267083333333335,
+    "Two days later, I saw something amazing."
+   ],
+   [
+    2.7467083333333333,
+    9.203416666666666,
+    "A young border guard named Conrad Schumann ran toward the barbed wire, and jumped right over it, into the West."
+   ],
+   [
+    9.523416666666666,
+    11.349124999999999,
+    "A photographer caught the moment."
+   ],
+   [
+    11.669125,
+    14.677708333333332,
+    "It became one of the most famous photos of the century."
+   ]
+  ]
+ },
+ {
+  "id": "concrete",
+  "dur": 13.474625,
+  "pause": 0.5,
+  "text": "Then the wire became concrete. Then two walls, with a death strip in between. Watchtowers. Floodlights. Dogs. One hundred and fifty five kilometers of wall, all the way around West Berlin.",
+  "sents": [
+   [
+    0.0,
+    1.8497083333333333,
+    "Then the wire became concrete."
+   ],
+   [
+    2.1697083333333333,
+    4.756,
+    "Then two walls, with a death strip in between."
+   ],
+   [
+    5.0760000000000005,
+    6.199166666666667,
+    "Watchtowers."
+   ],
+   [
+    6.519166666666667,
+    7.3678333333333335,
+    "Floodlights."
+   ],
+   [
+    7.687833333333334,
+    8.498541666666668,
+    "Dogs."
+   ],
+   [
+    8.818541666666667,
+    13.474625,
+    "One hundred and fifty five kilometers of wall, all the way around West Berlin."
+   ]
+  ]
+ },
+ {
+  "id": "jump",
+  "dur": 8.749291666666666,
+  "pause": 0.4,
+  "text": "Then my time machine started beeping again. Whoosh. The years flew past. Every time it stopped, I saw a little more of life with the wall.",
+  "sents": [
+   [
+    0.0,
+    2.3931666666666667,
+    "Then my time machine started beeping again."
+   ],
+   [
+    2.7131666666666665,
+    3.4208749999999997,
+    "Whoosh."
+   ],
+   [
+    3.740875,
+    5.126041666666667,
+    "The years flew past."
+   ],
+   [
+    5.446041666666667,
+    8.749291666666666,
+    "Every time it stopped, I saw a little more of life with the wall."
+   ]
+  ]
+ },
+ {
+  "id": "kennedy",
+  "dur": 18.069166666666668,
+  "pause": 0.5,
+  "text": "Nineteen sixty three. American President John F. Kennedy came to West Berlin and said: Ich bin ein Berliner. Some people later joked that he called himself a jelly doughnut, because a Berliner is also a doughnut. But Berliners knew exactly what he meant, and the crowd went wild.",
+  "sents": [
+   [
+    0.0,
+    1.5685,
+    "Nineteen sixty three."
+   ],
+   [
+    1.8885,
+    3.7514583333333333,
+    "American President John F."
+   ],
+   [
+    4.071458333333333,
+    7.7631250000000005,
+    "Kennedy came to West Berlin and said: Ich bin ein Berliner."
+   ],
+   [
+    8.083124999999999,
+    13.904791666666664,
+    "Some people later joked that he called himself a jelly doughnut, because a Berliner is also a doughnut."
+   ],
+   [
+    14.224791666666665,
+    18.069166666666664,
+    "But Berliners knew exactly what he meant, and the crowd went wild."
+   ]
+  ]
+ },
+ {
+  "id": "tunnel",
+  "dur": 11.989375,
+  "pause": 0.5,
+  "text": "Nineteen sixty four. I found myself underground, in a tunnel dug by students from the West. In two nights, fifty seven people crawled through it to freedom. It's still called Tunnel fifty seven.",
+  "sents": [
+   [
+    0.0,
+    1.548625,
+    "Nineteen sixty four."
+   ],
+   [
+    1.868625,
+    5.997125,
+    "I found myself underground, in a tunnel dug by students from the West."
+   ],
+   [
+    6.317125,
+    9.644874999999999,
+    "In two nights, fifty seven people crawled through it to freedom."
+   ],
+   [
+    9.964875,
+    11.989374999999999,
+    "It's still called Tunnel fifty seven."
+   ]
+  ]
+ },
+ {
+  "id": "balloon",
+  "dur": 12.202375,
+  "pause": 0.5,
+  "text": "Nineteen seventy nine. Two families built a hot air balloon out of curtains and bed sheets, and floated over the border at night. Eight people. One homemade balloon. Total legends.",
+  "sents": [
+   [
+    0.0,
+    1.48675,
+    "Nineteen seventy nine."
+   ],
+   [
+    1.80675,
+    7.687833333333334,
+    "Two families built a hot air balloon out of curtains and bed sheets, and floated over the border at night."
+   ],
+   [
+    8.007833333333334,
+    8.957125000000001,
+    "Eight people."
+   ],
+   [
+    9.277125000000002,
+    10.730666666666668,
+    "One homemade balloon."
+   ],
+   [
+    11.050666666666668,
+    12.202375000000002,
+    "Total legends."
+   ]
+  ]
+ },
+ {
+  "id": "memorial",
+  "dur": 11.406416666666667,
+  "pause": 1.0,
+  "text": "But not every escape had a happy ending. At least one hundred and forty people died at the Berlin Wall, trying to reach the other side. Today, their names are remembered at a memorial in Berlin.",
+  "sents": [
+   [
+    0.0,
+    2.22325,
+    "But not every escape had a happy ending."
+   ],
+   [
+    2.54325,
+    7.657958333333333,
+    "At least one hundred and forty people died at the Berlin Wall, trying to reach the other side."
+   ],
+   [
+    7.9779583333333335,
+    11.406416666666667,
+    "Today, their names are remembered at a memorial in Berlin."
+   ]
+  ]
+ },
+ {
+  "id": "reagan",
+  "dur": 11.816375,
+  "pause": 0.5,
+  "text": "Nineteen eighty seven. U S President Ronald Reagan stood at the Brandenburg Gate and said: Mister Gorbachev, tear down this wall! Everyone thought it would never happen. Not in our lifetime.",
+  "sents": [
+   [
+    0.0,
+    1.2849166666666667,
+    "Nineteen eighty seven."
+   ],
+   [
+    1.6049166666666668,
+    7.707791666666667,
+    "U S President Ronald Reagan stood at the Brandenburg Gate and said: Mister Gorbachev, tear down this wall!"
+   ],
+   [
+    8.027791666666667,
+    10.095541666666668,
+    "Everyone thought it would never happen."
+   ],
+   [
+    10.415541666666668,
+    11.816375,
+    "Not in our lifetime."
+   ]
+  ]
+ },
+ {
+  "id": "leipzig",
+  "dur": 15.409625,
+  "pause": 0.5,
+  "text": "Nineteen eighty nine. Everything changed fast. Hungary opened its border, and thousands of East Germans escaped that way. In Leipzig, seventy thousand people marched peacefully with candles, chanting: We are the people! Nobody fired a shot.",
+  "sents": [
+   [
+    0.0,
+    1.3259583333333333,
+    "Nineteen eighty nine."
+   ],
+   [
+    1.6459583333333334,
+    3.2896666666666667,
+    "Everything changed fast."
+   ],
+   [
+    3.6096666666666666,
+    7.918833333333334,
+    "Hungary opened its border, and thousands of East Germans escaped that way."
+   ],
+   [
+    8.238833333333334,
+    13.538291666666666,
+    "In Leipzig, seventy thousand people marched peacefully with candles, chanting: We are the people!"
+   ],
+   [
+    13.858291666666666,
+    15.409625,
+    "Nobody fired a shot."
+   ]
+  ]
+ },
+ {
+  "id": "press",
+  "dur": 14.608708333333333,
+  "pause": 0.4,
+  "text": "And then came November the ninth. I was standing in a press conference in East Berlin, next to a tired government official named G\u00fcnter Schabowski. He was reading new travel rules from a piece of paper. Nobody had told him all the details.",
+  "sents": [
+   [
+    0.0,
+    1.871875,
+    "And then came November the ninth."
+   ],
+   [
+    2.191875,
+    8.793,
+    "I was standing in a press conference in East Berlin, next to a tired government official named G\u00fcnter Schabowski."
+   ],
+   [
+    9.113,
+    11.969833333333334,
+    "He was reading new travel rules from a piece of paper."
+   ],
+   [
+    12.289833333333332,
+    14.608708333333333,
+    "Nobody had told him all the details."
+   ]
+  ]
+ },
+ {
+  "id": "when",
+  "dur": 12.854,
+  "pause": 0.6,
+  "text": "A journalist asked: When does this start? He shuffled his papers. He looked confused. And then he said: As far as I know, immediately. Without delay. The whole room froze. Oops.",
+  "sents": [
+   [
+    0.0,
+    2.225875,
+    "A journalist asked: When does this start?"
+   ],
+   [
+    2.5458749999999997,
+    4.070874999999999,
+    "He shuffled his papers."
+   ],
+   [
+    4.390874999999999,
+    5.735874999999999,
+    "He looked confused."
+   ],
+   [
+    6.0558749999999995,
+    8.735583333333333,
+    "And then he said: As far as I know, immediately."
+   ],
+   [
+    9.055583333333333,
+    10.153333333333332,
+    "Without delay."
+   ],
+   [
+    10.473333333333333,
+    11.924083333333332,
+    "The whole room froze."
+   ],
+   [
+    12.244083333333332,
+    12.854,
+    "Oops."
+   ]
+  ]
+ },
+ {
+  "id": "tv",
+  "dur": 11.078625,
+  "pause": 0.5,
+  "text": "The news was on TV within minutes. East Berliners looked at each other and thought: Wait. Can we just go? So they went. Thousands of them, straight to the border crossings.",
+  "sents": [
+   [
+    0.0,
+    2.233125,
+    "The news was on TV within minutes."
+   ],
+   [
+    2.5531249999999996,
+    5.383749999999999,
+    "East Berliners looked at each other and thought: Wait."
+   ],
+   [
+    5.703749999999999,
+    6.879124999999999,
+    "Can we just go?"
+   ],
+   [
+    7.1991249999999996,
+    8.227458333333333,
+    "So they went."
+   ],
+   [
+    8.547458333333333,
+    11.078624999999999,
+    "Thousands of them, straight to the border crossings."
+   ]
+  ]
+ },
+ {
+  "id": "bornholmer",
+  "dur": 14.780875,
+  "pause": 0.4,
+  "text": "At the Bornholmer Street crossing, the crowd kept growing. The guards had no orders. The crowd chanted: Open the gate! Finally, at about eleven thirty at night, the officer in charge, Harald J\u00e4ger, made a decision. He opened the gate.",
+  "sents": [
+   [
+    0.0,
+    3.01525,
+    "At the Bornholmer Street crossing, the crowd kept growing."
+   ],
+   [
+    3.33525,
+    4.942666666666667,
+    "The guards had no orders."
+   ],
+   [
+    5.262666666666666,
+    7.228958333333333,
+    "The crowd chanted: Open the gate!"
+   ],
+   [
+    7.548958333333333,
+    13.211416666666667,
+    "Finally, at about eleven thirty at night, the officer in charge, Harald J\u00e4ger, made a decision."
+   ],
+   [
+    13.531416666666667,
+    14.780875,
+    "He opened the gate."
+   ]
+  ]
+ },
+ {
+  "id": "flood",
+  "dur": 13.726125,
+  "pause": 0.5,
+  "text": "And people just poured through. Walking. Running. Driving their tiny Trabant cars. Strangers in the West handed them flowers, chocolate, and sparkling wine. People who had never met were hugging and crying.",
+  "sents": [
+   [
+    0.0,
+    1.717375,
+    "And people just poured through."
+   ],
+   [
+    2.037375,
+    2.894458333333333,
+    "Walking."
+   ],
+   [
+    3.214458333333333,
+    3.9347499999999997,
+    "Running."
+   ],
+   [
+    4.25475,
+    6.285458333333333,
+    "Driving their tiny Trabant cars."
+   ],
+   [
+    6.605458333333333,
+    10.805083333333332,
+    "Strangers in the West handed them flowers, chocolate, and sparkling wine."
+   ],
+   [
+    11.125083333333333,
+    13.726125,
+    "People who had never met were hugging and crying."
+   ]
+  ]
+ },
+ {
+  "id": "party",
+  "dur": 9.758291666666667,
+  "pause": 0.4,
+  "text": "By midnight, people were dancing on top of the wall at the Brandenburg Gate. I climbed up too. Somebody handed me a hammer. That's how I ended up here.",
+  "sents": [
+   [
+    0.0,
+    4.14475,
+    "By midnight, people were dancing on top of the wall at the Brandenburg Gate."
+   ],
+   [
+    4.46475,
+    5.809166666666667,
+    "I climbed up too."
+   ],
+   [
+    6.129166666666667,
+    7.847666666666667,
+    "Somebody handed me a hammer."
+   ],
+   [
+    8.167666666666667,
+    9.758291666666667,
+    "That's how I ended up here."
+   ]
+  ]
+ },
+ {
+  "id": "woodpeckers",
+  "dur": 11.807,
+  "pause": 0.4,
+  "text": "Over the next days, so many people chipped away at the wall that Berliners gave them a nickname: Mauerspechte. Wall woodpeckers. Tap tap tap. Everyone wanted a little piece of history.",
+  "sents": [
+   [
+    0.0,
+    6.148708333333333,
+    "Over the next days, so many people chipped away at the wall that Berliners gave them a nickname: Mauerspechte."
+   ],
+   [
+    6.468708333333334,
+    7.749208333333334,
+    "Wall woodpeckers."
+   ],
+   [
+    8.069208333333334,
+    9.245541666666668,
+    "Tap tap tap."
+   ],
+   [
+    9.565541666666668,
+    11.807000000000002,
+    "Everyone wanted a little piece of history."
+   ]
+  ]
+ },
+ {
+  "id": "reunite",
+  "dur": 10.335791666666667,
+  "pause": 1.0,
+  "text": "But my favorite moment wasn't the hammers. It was an old man hugging his sister for the first time in twenty eight years. They didn't say anything. They just held on.",
+  "sents": [
+   [
+    0.0,
+    2.364708333333333,
+    "But my favorite moment wasn't the hammers."
+   ],
+   [
+    2.684708333333333,
+    6.899416666666666,
+    "It was an old man hugging his sister for the first time in twenty eight years."
+   ],
+   [
+    7.219416666666667,
+    8.684583333333332,
+    "They didn't say anything."
+   ],
+   [
+    9.004583333333333,
+    10.335791666666665,
+    "They just held on."
+   ]
+  ]
+ },
+ {
+  "id": "after",
+  "dur": 13.973,
+  "pause": 0.6,
+  "text": "Less than a year later, on October the third, nineteen ninety, East and West Germany became one country again. Today, pieces of the wall stand all over the world. And in Berlin, a line of cobblestones shows where the wall used to be.",
+  "sents": [
+   [
+    0.0,
+    6.40575,
+    "Less than a year later, on October the third, nineteen ninety, East and West Germany became one country again."
+   ],
+   [
+    6.725750000000001,
+    9.630708333333335,
+    "Today, pieces of the wall stand all over the world."
+   ],
+   [
+    9.950708333333335,
+    13.973000000000003,
+    "And in Berlin, a line of cobblestones shows where the wall used to be."
+   ]
+  ]
+ },
+ {
+  "id": "home",
+  "dur": 10.407,
+  "pause": 0.5,
+  "text": "My time machine beeped one last time, and I was back home, with something heavy in my pocket. A little piece of grey concrete, with a splash of paint. My own piece of history.",
+  "sents": [
+   [
+    0.0,
+    5.303458333333333,
+    "My time machine beeped one last time, and I was back home, with something heavy in my pocket."
+   ],
+   [
+    5.623458333333334,
+    8.566416666666667,
+    "A little piece of grey concrete, with a splash of paint."
+   ],
+   [
+    8.886416666666667,
+    10.407,
+    "My own piece of history."
+   ]
+  ]
+ },
+ {
+  "id": "lesson",
+  "dur": 10.820958333333333,
+  "pause": 0.6,
+  "text": "Walls can feel permanent. This one lasted twenty eight years. But it was brought down by ordinary people, with candles, chants, and a lot of courage. And a few hammers.",
+  "sents": [
+   [
+    0.0,
+    1.6802083333333333,
+    "Walls can feel permanent."
+   ],
+   [
+    2.000208333333333,
+    4.061958333333333,
+    "This one lasted twenty eight years."
+   ],
+   [
+    4.381958333333333,
+    9.2295,
+    "But it was brought down by ordinary people, with candles, chants, and a lot of courage."
+   ],
+   [
+    9.5495,
+    10.820958333333333,
+    "And a few hammers."
+   ]
+  ]
+ },
+ {
+  "id": "outro",
+  "dur": 6.306333333333333,
+  "pause": 1.0,
+  "text": "If you enjoyed this adventure, subscribe to History World. Because my time machine is already beeping again.",
+  "sents": [
+   [
+    0.0,
+    3.294375,
+    "If you enjoyed this adventure, subscribe to History World."
+   ],
+   [
+    3.614375,
+    6.306333333333333,
+    "Because my time machine is already beeping again."
+   ]
+  ]
+ }
+]

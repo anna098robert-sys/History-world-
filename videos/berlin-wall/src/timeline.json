@@ -1,0 +1,900 @@
+{
+ "fps": 30,
+ "total": 376.0792,
+ "frames": 11282,
+ "shots": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "dur": 16.2085,
+   "vo": "vo/hook.mp3",
+   "voOff": 0.15,
+   "voDur": 15.6585,
+   "sents": [
+    [
+     0.15,
+     3.0673,
+     "I'm sitting on top of the most famous wall in the world."
+    ],
+    [
+     3.3873,
+     4.7287,
+     "I'm holding a hammer."
+    ],
+    [
+     5.0487,
+     6.8968,
+     "Thousands of people are cheering."
+    ],
+    [
+     7.2168,
+     8.467,
+     "And the border guards?"
+    ],
+    [
+     8.787,
+     10.154,
+     "They're just watching."
+    ],
+    [
+     10.474,
+     12.5629,
+     "Last week, this would have been impossible."
+    ],
+    [
+     12.8829,
+     14.6086,
+     "Tonight, history is breaking."
+    ],
+    [
+     14.9286,
+     15.8085,
+     "Literally."
+    ]
+   ]
+  },
+  {
+   "id": "title",
+   "start": 16.2085,
+   "dur": 4.5,
+   "vo": null,
+   "voOff": 0,
+   "voDur": 0,
+   "sents": []
+  },
+  {
+   "id": "glitch",
+   "start": 20.7085,
+   "dur": 14.7628,
+   "vo": "vo/glitch.mp3",
+   "voOff": 0.15,
+   "voDur": 13.5128,
+   "sents": [
+    [
+     0.15,
+     1.6716,
+     "Okay, let me explain."
+    ],
+    [
+     1.9916,
+     4.9368,
+     "My five dollar time machine has a mind of its own."
+    ],
+    [
+     5.2568,
+     9.1317,
+     "I pressed one button, and instead of going home, I landed in Berlin."
+    ],
+    [
+     9.4517,
+     11.4479,
+     "Not in 1989."
+    ],
+    [
+     11.7679,
+     13.6628,
+     "In 1961."
+    ]
+   ]
+  },
+  {
+   "id": "map",
+   "start": 35.4713,
+   "dur": 14.8056,
+   "vo": "vo/map.mp3",
+   "voOff": 0.15,
+   "voDur": 14.1556,
+   "sents": [
+    [
+     0.15,
+     1.5472,
+     "Quick history lesson."
+    ],
+    [
+     1.8672,
+     4.5023,
+     "After World War Two, Germany was split in two."
+    ],
+    [
+     4.8223,
+     7.4251,
+     "West Germany, and communist East Germany."
+    ],
+    [
+     7.7451,
+     10.8259,
+     "And Berlin, deep inside East Germany, was split too."
+    ],
+    [
+     11.1459,
+     12.6161,
+     "Half the city was free."
+    ],
+    [
+     12.9361,
+     14.3056,
+     "The other half wasn't."
+    ]
+   ]
+  },
+  {
+   "id": "escape",
+   "start": 50.2769,
+   "dur": 13.44,
+   "vo": "vo/escape.mp3",
+   "voOff": 0.15,
+   "voDur": 12.79,
+   "sents": [
+    [
+     0.15,
+     4.6533,
+     "Millions of East Germans simply walked into West Berlin, and never came back."
+    ],
+    [
+     4.9733,
+     6.9961,
+     "Almost three million people left."
+    ],
+    [
+     7.3161,
+     9.7511,
+     "Doctors, engineers, entire families."
+    ],
+    [
+     10.0711,
+     12.94,
+     "The East German government was losing its people."
+    ]
+   ]
+  },
+  {
+   "id": "night61",
+   "start": 63.717,
+   "dur": 12.1173,
+   "vo": "vo/night61.mp3",
+   "voOff": 0.15,
+   "voDur": 11.5672,
+   "sents": [
+    [
+     0.15,
+     7.4403,
+     "So on the night of August the thirteenth, nineteen sixty one, soldiers rolled out barbed wire right through the middle of the city."
+    ],
+    [
+     7.7603,
+     10.4942,
+     "Streets, parks, even cemeteries, cut in half."
+    ],
+    [
+     10.8142,
+     11.7172,
+     "Overnight."
+    ]
+   ]
+  },
+  {
+   "id": "morning",
+   "start": 75.8342,
+   "dur": 12.3433,
+   "vo": "vo/morning.mp3",
+   "voOff": 0.15,
+   "voDur": 11.6933,
+   "sents": [
+    [
+     0.15,
+     2.4125,
+     "People woke up, and their city was gone."
+    ],
+    [
+     2.7325,
+     5.3759,
+     "A girl couldn't visit her grandma across the street."
+    ],
+    [
+     5.6959,
+     7.268,
+     "A man couldn't get to work."
+    ],
+    [
+     7.588,
+     11.8433,
+     "I tried to step over the wire, and a soldier gave me a look I'll never forget."
+    ]
+   ]
+  },
+  {
+   "id": "schumann",
+   "start": 88.1775,
+   "dur": 16.0277,
+   "vo": "vo/schumann.mp3",
+   "voOff": 0.15,
+   "voDur": 14.6777,
+   "sents": [
+    [
+     0.15,
+     2.5767,
+     "Two days later, I saw something amazing."
+    ],
+    [
+     2.8967,
+     9.3534,
+     "A young border guard named Conrad Schumann ran toward the barbed wire, and jumped right over it, into the West."
+    ],
+    [
+     9.6734,
+     11.4991,
+     "A photographer caught the moment."
+    ],
+    [
+     11.8191,
+     14.8277,
+     "It became one of the most famous photos of the century."
+    ]
+   ]
+  },
+  {
+   "id": "concrete",
+   "start": 104.2052,
+   "dur": 14.1246,
+   "vo": "vo/concrete.mp3",
+   "voOff": 0.15,
+   "voDur": 13.4746,
+   "sents": [
+    [
+     0.15,
+     1.9997,
+     "Then the wire became concrete."
+    ],
+    [
+     2.3197,
+     4.906,
+     "Then two walls, with a death strip in between."
+    ],
+    [
+     5.226,
+     6.3492,
+     "Watchtowers."
+    ],
+    [
+     6.6692,
+     7.5178,
+     "Floodlights."
+    ],
+    [
+     7.8378,
+     8.6485,
+     "Dogs."
+    ],
+    [
+     8.9685,
+     13.6246,
+     "One hundred and fifty five kilometers of wall, all the way around West Berlin."
+    ]
+   ]
+  },
+  {
+   "id": "jump",
+   "start": 118.3298,
+   "dur": 9.6993,
+   "vo": "vo/jump.mp3",
+   "voOff": 0.15,
+   "voDur": 8.7493,
+   "sents": [
+    [
+     0.15,
+     2.5432,
+     "Then my time machine started beeping again."
+    ],
+    [
+     2.8632,
+     3.5709,
+     "Whoosh."
+    ],
+    [
+     3.8909,
+     5.276,
+     "The years flew past."
+    ],
+    [
+     5.596,
+     8.8993,
+     "Every time it stopped, I saw a little more of life with the wall."
+    ]
+   ]
+  },
+  {
+   "id": "kennedy",
+   "start": 128.0291,
+   "dur": 18.7192,
+   "vo": "vo/kennedy.mp3",
+   "voOff": 0.15,
+   "voDur": 18.0692,
+   "sents": [
+    [
+     0.15,
+     1.7185,
+     "Nineteen sixty three."
+    ],
+    [
+     2.0385,
+     3.9015,
+     "American President John F."
+    ],
+    [
+     4.2215,
+     7.9131,
+     "Kennedy came to West Berlin and said: Ich bin ein Berliner."
+    ],
+    [
+     8.2331,
+     14.0548,
+     "Some people later joked that he called himself a jelly doughnut, because a Berliner is also a doughnut."
+    ],
+    [
+     14.3748,
+     18.2192,
+     "But Berliners knew exactly what he meant, and the crowd went wild."
+    ]
+   ]
+  },
+  {
+   "id": "tunnel",
+   "start": 146.7483,
+   "dur": 12.6394,
+   "vo": "vo/tunnel.mp3",
+   "voOff": 0.15,
+   "voDur": 11.9894,
+   "sents": [
+    [
+     0.15,
+     1.6986,
+     "Nineteen sixty four."
+    ],
+    [
+     2.0186,
+     6.1471,
+     "I found myself underground, in a tunnel dug by students from the West."
+    ],
+    [
+     6.4671,
+     9.7949,
+     "In two nights, fifty seven people crawled through it to freedom."
+    ],
+    [
+     10.1149,
+     12.1394,
+     "It's still called Tunnel fifty seven."
+    ]
+   ]
+  },
+  {
+   "id": "balloon",
+   "start": 159.3877,
+   "dur": 12.8524,
+   "vo": "vo/balloon.mp3",
+   "voOff": 0.15,
+   "voDur": 12.2024,
+   "sents": [
+    [
+     0.15,
+     1.6367,
+     "Nineteen seventy nine."
+    ],
+    [
+     1.9567,
+     7.8378,
+     "Two families built a hot air balloon out of curtains and bed sheets, and floated over the border at night."
+    ],
+    [
+     8.1578,
+     9.1071,
+     "Eight people."
+    ],
+    [
+     9.4271,
+     10.8807,
+     "One homemade balloon."
+    ],
+    [
+     11.2007,
+     12.3524,
+     "Total legends."
+    ]
+   ]
+  },
+  {
+   "id": "memorial",
+   "start": 172.24,
+   "dur": 14.7564,
+   "vo": "vo/memorial.mp3",
+   "voOff": 0.15,
+   "voDur": 11.4064,
+   "sents": [
+    [
+     0.15,
+     2.3733,
+     "But not every escape had a happy ending."
+    ],
+    [
+     2.6932,
+     7.808,
+     "At least one hundred and forty people died at the Berlin Wall, trying to reach the other side."
+    ],
+    [
+     8.128,
+     11.5564,
+     "Today, their names are remembered at a memorial in Berlin."
+    ]
+   ]
+  },
+  {
+   "id": "reagan",
+   "start": 186.9965,
+   "dur": 12.4664,
+   "vo": "vo/reagan.mp3",
+   "voOff": 0.15,
+   "voDur": 11.8164,
+   "sents": [
+    [
+     0.15,
+     1.4349,
+     "Nineteen eighty seven."
+    ],
+    [
+     1.7549,
+     7.8578,
+     "U S President Ronald Reagan stood at the Brandenburg Gate and said: Mister Gorbachev, tear down this wall!"
+    ],
+    [
+     8.1778,
+     10.2455,
+     "Everyone thought it would never happen."
+    ],
+    [
+     10.5655,
+     11.9664,
+     "Not in our lifetime."
+    ]
+   ]
+  },
+  {
+   "id": "leipzig",
+   "start": 199.4628,
+   "dur": 16.0596,
+   "vo": "vo/leipzig.mp3",
+   "voOff": 0.15,
+   "voDur": 15.4096,
+   "sents": [
+    [
+     0.15,
+     1.476,
+     "Nineteen eighty nine."
+    ],
+    [
+     1.796,
+     3.4397,
+     "Everything changed fast."
+    ],
+    [
+     3.7597,
+     8.0688,
+     "Hungary opened its border, and thousands of East Germans escaped that way."
+    ],
+    [
+     8.3888,
+     13.6883,
+     "In Leipzig, seventy thousand people marched peacefully with candles, chanting: We are the people!"
+    ],
+    [
+     14.0083,
+     15.5596,
+     "Nobody fired a shot."
+    ]
+   ]
+  },
+  {
+   "id": "press",
+   "start": 215.5225,
+   "dur": 15.1587,
+   "vo": "vo/press.mp3",
+   "voOff": 0.15,
+   "voDur": 14.6087,
+   "sents": [
+    [
+     0.15,
+     2.0219,
+     "And then came November the ninth."
+    ],
+    [
+     2.3419,
+     8.943,
+     "I was standing in a press conference in East Berlin, next to a tired government official named G\u00fcnter Schabowski."
+    ],
+    [
+     9.263,
+     12.1198,
+     "He was reading new travel rules from a piece of paper."
+    ],
+    [
+     12.4398,
+     14.7587,
+     "Nobody had told him all the details."
+    ]
+   ]
+  },
+  {
+   "id": "when",
+   "start": 230.6812,
+   "dur": 14.404,
+   "vo": "vo/when.mp3",
+   "voOff": 0.15,
+   "voDur": 12.854,
+   "sents": [
+    [
+     0.15,
+     2.3759,
+     "A journalist asked: When does this start?"
+    ],
+    [
+     2.6959,
+     4.2209,
+     "He shuffled his papers."
+    ],
+    [
+     4.5409,
+     5.8859,
+     "He looked confused."
+    ],
+    [
+     6.2059,
+     8.8856,
+     "And then he said: As far as I know, immediately."
+    ],
+    [
+     9.2056,
+     10.3033,
+     "Without delay."
+    ],
+    [
+     10.6233,
+     12.0741,
+     "The whole room froze."
+    ],
+    [
+     12.3941,
+     13.004,
+     "Oops."
+    ]
+   ]
+  },
+  {
+   "id": "tv",
+   "start": 245.0852,
+   "dur": 11.7286,
+   "vo": "vo/tv.mp3",
+   "voOff": 0.15,
+   "voDur": 11.0786,
+   "sents": [
+    [
+     0.15,
+     2.3831,
+     "The news was on TV within minutes."
+    ],
+    [
+     2.7031,
+     5.5337,
+     "East Berliners looked at each other and thought: Wait."
+    ],
+    [
+     5.8537,
+     7.0291,
+     "Can we just go?"
+    ],
+    [
+     7.3491,
+     8.3775,
+     "So they went."
+    ],
+    [
+     8.6975,
+     11.2286,
+     "Thousands of them, straight to the border crossings."
+    ]
+   ]
+  },
+  {
+   "id": "bornholmer",
+   "start": 256.8138,
+   "dur": 16.1309,
+   "vo": "vo/bornholmer.mp3",
+   "voOff": 0.15,
+   "voDur": 14.7809,
+   "sents": [
+    [
+     0.15,
+     3.1652,
+     "At the Bornholmer Street crossing, the crowd kept growing."
+    ],
+    [
+     3.4852,
+     5.0927,
+     "The guards had no orders."
+    ],
+    [
+     5.4127,
+     7.379,
+     "The crowd chanted: Open the gate!"
+    ],
+    [
+     7.699,
+     13.3614,
+     "Finally, at about eleven thirty at night, the officer in charge, Harald J\u00e4ger, made a decision."
+    ],
+    [
+     13.6814,
+     14.9309,
+     "He opened the gate."
+    ]
+   ]
+  },
+  {
+   "id": "flood",
+   "start": 272.9447,
+   "dur": 14.3761,
+   "vo": "vo/flood.mp3",
+   "voOff": 0.15,
+   "voDur": 13.7261,
+   "sents": [
+    [
+     0.15,
+     1.8674,
+     "And people just poured through."
+    ],
+    [
+     2.1874,
+     3.0445,
+     "Walking."
+    ],
+    [
+     3.3645,
+     4.0847,
+     "Running."
+    ],
+    [
+     4.4047,
+     6.4355,
+     "Driving their tiny Trabant cars."
+    ],
+    [
+     6.7555,
+     10.9551,
+     "Strangers in the West handed them flowers, chocolate, and sparkling wine."
+    ],
+    [
+     11.2751,
+     13.8761,
+     "People who had never met were hugging and crying."
+    ]
+   ]
+  },
+  {
+   "id": "party",
+   "start": 287.3208,
+   "dur": 10.3083,
+   "vo": "vo/party.mp3",
+   "voOff": 0.15,
+   "voDur": 9.7583,
+   "sents": [
+    [
+     0.15,
+     4.2948,
+     "By midnight, people were dancing on top of the wall at the Brandenburg Gate."
+    ],
+    [
+     4.6148,
+     5.9592,
+     "I climbed up too."
+    ],
+    [
+     6.2792,
+     7.9977,
+     "Somebody handed me a hammer."
+    ],
+    [
+     8.3177,
+     9.9083,
+     "That's how I ended up here."
+    ]
+   ]
+  },
+  {
+   "id": "woodpeckers",
+   "start": 297.6291,
+   "dur": 12.357,
+   "vo": "vo/woodpeckers.mp3",
+   "voOff": 0.15,
+   "voDur": 11.807,
+   "sents": [
+    [
+     0.15,
+     6.2987,
+     "Over the next days, so many people chipped away at the wall that Berliners gave them a nickname: Mauerspechte."
+    ],
+    [
+     6.6187,
+     7.8992,
+     "Wall woodpeckers."
+    ],
+    [
+     8.2192,
+     9.3955,
+     "Tap tap tap."
+    ],
+    [
+     9.7155,
+     11.957,
+     "Everyone wanted a little piece of history."
+    ]
+   ]
+  },
+  {
+   "id": "reunite",
+   "start": 309.9861,
+   "dur": 13.4858,
+   "vo": "vo/reunite.mp3",
+   "voOff": 0.15,
+   "voDur": 10.3358,
+   "sents": [
+    [
+     0.15,
+     2.5147,
+     "But my favorite moment wasn't the hammers."
+    ],
+    [
+     2.8347,
+     7.0494,
+     "It was an old man hugging his sister for the first time in twenty eight years."
+    ],
+    [
+     7.3694,
+     8.8346,
+     "They didn't say anything."
+    ],
+    [
+     9.1546,
+     10.4858,
+     "They just held on."
+    ]
+   ]
+  },
+  {
+   "id": "after",
+   "start": 323.4719,
+   "dur": 14.723,
+   "vo": "vo/after.mp3",
+   "voOff": 0.15,
+   "voDur": 13.973,
+   "sents": [
+    [
+     0.15,
+     6.5558,
+     "Less than a year later, on October the third, nineteen ninety, East and West Germany became one country again."
+    ],
+    [
+     6.8758,
+     9.7807,
+     "Today, pieces of the wall stand all over the world."
+    ],
+    [
+     10.1007,
+     14.123,
+     "And in Berlin, a line of cobblestones shows where the wall used to be."
+    ]
+   ]
+  },
+  {
+   "id": "home",
+   "start": 338.1949,
+   "dur": 11.057,
+   "vo": "vo/home.mp3",
+   "voOff": 0.15,
+   "voDur": 10.407,
+   "sents": [
+    [
+     0.15,
+     5.4535,
+     "My time machine beeped one last time, and I was back home, with something heavy in my pocket."
+    ],
+    [
+     5.7735,
+     8.7164,
+     "A little piece of grey concrete, with a splash of paint."
+    ],
+    [
+     9.0364,
+     10.557,
+     "My own piece of history."
+    ]
+   ]
+  },
+  {
+   "id": "lesson",
+   "start": 349.2519,
+   "dur": 12.371,
+   "vo": "vo/lesson.mp3",
+   "voOff": 0.15,
+   "voDur": 10.821,
+   "sents": [
+    [
+     0.15,
+     1.8302,
+     "Walls can feel permanent."
+    ],
+    [
+     2.1502,
+     4.212,
+     "This one lasted twenty eight years."
+    ],
+    [
+     4.532,
+     9.3795,
+     "But it was brought down by ordinary people, with candles, chants, and a lot of courage."
+    ],
+    [
+     9.6995,
+     10.971,
+     "And a few hammers."
+    ]
+   ]
+  },
+  {
+   "id": "outro",
+   "start": 361.6228,
+   "dur": 7.4563,
+   "vo": "vo/outro.mp3",
+   "voOff": 0.15,
+   "voDur": 6.3063,
+   "sents": [
+    [
+     0.15,
+     3.4444,
+     "If you enjoyed this adventure, subscribe to History World."
+    ],
+    [
+     3.7644,
+     6.4563,
+     "Because my time machine is already beeping again."
+    ]
+   ]
+  },
+  {
+   "id": "endcard",
+   "start": 369.0792,
+   "dur": 7.0,
+   "vo": null,
+   "voOff": 0,
+   "voDur": 0,
+   "sents": []
+  }
+ ]
+}
